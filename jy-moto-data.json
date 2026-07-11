@@ -2573,6 +2573,11 @@
     "tag": "aprilia-tuareg-125",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-aprilia-tuareg-125"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-aprilia-tuareg-125"
@@ -2606,6 +2611,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@57de90aead07a5c37ddf2140814484f43582bd85/mb-aprilia-tuareg-350.jpg",
     "tag": "aprilia-tuareg-350",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-aprilia-tuareg-350"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",

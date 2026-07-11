@@ -53,6 +53,11 @@
     "tag": "aprilia-area-51-50",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-aprilia-area-51-50"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-aprilia-area-51-50"
@@ -926,11 +931,6 @@
     "tag": "aprilia-mxv-450",
     "tipi": [
      {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-aprilia-mxv-450"
-     },
-     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-aprilia-mxv-450"
@@ -1157,7 +1157,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "S2",
       "handle": "kit-led-biluce-aprilia-red-rose-125"
      },
      {
@@ -1179,7 +1179,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "S2",
       "handle": "kit-led-biluce-aprilia-red-rose-50"
      },
      {
@@ -2250,7 +2250,7 @@
     "tipi": [
      {
       "nome": "Anabbaglianti",
-      "socket": "H11",
+      "socket": "H3",
       "handle": "kit-led-anabbaglianti-aprilia-sr-125"
      },
      {
@@ -2356,7 +2356,7 @@
     "tipi": [
      {
       "nome": "Anabbaglianti",
-      "socket": "H11",
+      "socket": "H3",
       "handle": "kit-led-anabbaglianti-aprilia-sr-50"
      },
      {
@@ -4044,7 +4044,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "BA20D",
       "handle": "kit-led-biluce-benelli-benelli-quattronove-x"
      },
      {
@@ -5291,14 +5291,9 @@
     "tag": "bmw-moto-g-450-x",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-anabbaglianti-bmw-moto-g-450-x"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-bmw-moto-g-450-x"
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "HS1",
+      "handle": "kit-led-biluce-bmw-moto-g-450-x"
      },
      {
       "nome": "Frecce",
@@ -5386,14 +5381,9 @@
     "tag": "bmw-moto-hp2-enduro",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-anabbaglianti-bmw-moto-hp2-enduro"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-bmw-moto-hp2-enduro"
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-bmw-moto-hp2-enduro"
      },
      {
       "nome": "Frecce",
@@ -5408,14 +5398,9 @@
     "tag": "bmw-moto-hp2-megamoto",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-anabbaglianti-bmw-moto-hp2-megamoto"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-bmw-moto-hp2-megamoto"
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-bmw-moto-hp2-megamoto"
      },
      {
       "nome": "Frecce",
@@ -6168,7 +6153,7 @@
     "tipi": [
      {
       "nome": "Anabbaglianti",
-      "socket": "H7",
+      "socket": "H1",
       "handle": "kit-led-anabbaglianti-bmw-moto-r-1100-s"
      },
      {
@@ -6189,14 +6174,9 @@
     "tag": "bmw-moto-r-1150-gs",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H1",
-      "handle": "kit-led-anabbaglianti-bmw-moto-r-1150-gs"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H1",
-      "handle": "kit-led-abbaglianti-bmw-moto-r-1150-gs"
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-bmw-moto-r-1150-gs"
      },
      {
       "nome": "Fendinebbia",
@@ -6466,14 +6446,9 @@
     "tag": "bmw-moto-r-1200-st",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-anabbaglianti-bmw-moto-r-1200-st"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-bmw-moto-r-1200-st"
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-bmw-moto-r-1200-st"
      },
      {
       "nome": "Frecce",
@@ -6829,14 +6804,9 @@
     "tag": "bmw-moto-r-ninet",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-anabbaglianti-bmw-moto-r-ninet"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-bmw-moto-r-ninet"
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-bmw-moto-r-ninet"
      },
      {
       "nome": "Frecce",

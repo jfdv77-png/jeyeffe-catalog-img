@@ -8907,23 +8907,6 @@
     ]
    },
    {
-    "nome": "Furax 50",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-derbi-furax-50.jpg",
-    "tag": "derbi-furax-50",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-derbi-furax-50"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-derbi-furax-50"
-     }
-    ]
-   },
-   {
     "nome": "Gp1 125",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-derbi-gp1-125.jpg",
     "tag": "derbi-gp1-125",
@@ -12342,23 +12325,6 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-gilera-cougar-125"
-     }
-    ]
-   },
-   {
-    "nome": "Cre",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@a57a466d1df7cfa842887de7bf0f44fb715d0320/mb-gilera-cre.jpg",
-    "tag": "gilera-cre",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-gilera-cre"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-gilera-cre"
      }
     ]
    },
@@ -34557,23 +34523,6 @@
     ]
    },
    {
-    "nome": "Cp 50",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-cp-50.jpg",
-    "tag": "suzuki-moto-cp-50",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-suzuki-moto-cp-50"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-suzuki-moto-cp-50"
-     }
-    ]
-   },
-   {
     "nome": "Dr 125",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-dr-125.jpg",
     "tag": "suzuki-moto-dr-125",
@@ -35172,33 +35121,6 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-suzuki-moto-gsf-400-bandit"
-     }
-    ]
-   },
-   {
-    "nome": "Gsf 500 Bandit",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-gsf-500-bandit.jpg",
-    "tag": "suzuki-moto-gsf-500-bandit",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-suzuki-moto-gsf-500-bandit"
-     },
-     {
-      "nome": "Posizione",
-      "socket": "T10",
-      "handle": "kit-led-posizione-suzuki-moto-gsf-500-bandit"
-     },
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-suzuki-moto-gsf-500-bandit"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-suzuki-moto-gsf-500-bandit"
      }
     ]
    },

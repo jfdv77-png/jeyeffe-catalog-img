@@ -2732,25 +2732,52 @@
     ]
    },
    {
-    "nome": "Tuono 125",
+    "nome": "Tuono 125 (fino 2024)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-tuono-125.jpg",
-    "tag": "aprilia-tuono-125",
+    "tag": "aprilia-tuono-125-fino-2024",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-aprilia-tuono-125-fino-2024"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-aprilia-tuono-125-fino-2024"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-aprilia-tuono-125-fino-2024"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-aprilia-tuono-125-fino-2024"
+     }
+    ]
+   },
+   {
+    "nome": "Tuono 125 (dal 2025)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-tuono-125.jpg",
+    "tag": "aprilia-tuono-125-dal-2025",
     "tipi": [
      {
       "nome": "Faro LED di serie",
       "socket": "non sostituibile",
-      "handle": "kit-led-fari-led-aprilia-tuono-125",
+      "handle": "kit-led-fari-led-aprilia-tuono-125-dal-2025",
       "led": true
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-aprilia-tuono-125"
+      "handle": "kit-led-frecce-aprilia-tuono-125-dal-2025"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-aprilia-tuono-125"
+      "handle": "kit-led-targa-aprilia-tuono-125-dal-2025"
      }
     ]
    },
@@ -3801,25 +3828,47 @@
     ]
    },
    {
-    "nome": "Leoncino 250",
+    "nome": "Leoncino 250 (2017-2021)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-benelli-benelli-leoncino-250.jpg",
-    "tag": "benelli-benelli-leoncino-250",
+    "tag": "benelli-benelli-leoncino-250-2017-2021",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-benelli-benelli-leoncino-250-2017-2021"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-benelli-benelli-leoncino-250-2017-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-benelli-benelli-leoncino-250-2017-2021"
+     }
+    ]
+   },
+   {
+    "nome": "Leoncino 250 (dal 2022)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-benelli-benelli-leoncino-250.jpg",
+    "tag": "benelli-benelli-leoncino-250-dal-2022",
     "tipi": [
      {
       "nome": "Faro LED di serie",
       "socket": "non sostituibile",
-      "handle": "kit-led-fari-led-benelli-benelli-leoncino-250",
+      "handle": "kit-led-fari-led-benelli-benelli-leoncino-250-dal-2022",
       "led": true
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-benelli-benelli-leoncino-250"
+      "handle": "kit-led-frecce-benelli-benelli-leoncino-250-dal-2022"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-benelli-benelli-leoncino-250"
+      "handle": "kit-led-targa-benelli-benelli-leoncino-250-dal-2022"
      }
     ]
    },

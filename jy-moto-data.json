@@ -1046,34 +1046,88 @@
     ]
    },
    {
-    "nome": "Pegaso 650",
+    "nome": "Pegaso 650 (1991-1996)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-pegaso-650.jpg",
-    "tag": "aprilia-pegaso-650",
+    "tag": "aprilia-pegaso-650-1991-1996",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H11",
-      "handle": "kit-led-anabbaglianti-aprilia-pegaso-650"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "HB3",
-      "handle": "kit-led-abbaglianti-aprilia-pegaso-650"
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-aprilia-pegaso-650-1991-1996"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-aprilia-pegaso-650"
+      "handle": "kit-led-frecce-aprilia-pegaso-650-1991-1996"
      },
      {
       "nome": "Stop",
       "socket": "BAY15D",
-      "handle": "kit-led-stop-aprilia-pegaso-650"
+      "handle": "kit-led-stop-aprilia-pegaso-650-1991-1996"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-aprilia-pegaso-650"
+      "handle": "kit-led-targa-aprilia-pegaso-650-1991-1996"
+     }
+    ]
+   },
+   {
+    "nome": "Pegaso 650 (1997-2004)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-pegaso-650.jpg",
+    "tag": "aprilia-pegaso-650-1997-2004",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-aprilia-pegaso-650-1997-2004"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-abbaglianti-aprilia-pegaso-650-1997-2004"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-aprilia-pegaso-650-1997-2004"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-aprilia-pegaso-650-1997-2004"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-aprilia-pegaso-650-1997-2004"
+     }
+    ]
+   },
+   {
+    "nome": "Pegaso 650 (2005-2011)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-pegaso-650.jpg",
+    "tag": "aprilia-pegaso-650-2005-2011",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H11",
+      "handle": "kit-led-biluce-aprilia-pegaso-650-2005-2011"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-aprilia-pegaso-650-2005-2011"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-aprilia-pegaso-650-2005-2011"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-aprilia-pegaso-650-2005-2011"
      }
     ]
    },
@@ -1217,39 +1271,71 @@
     ]
    },
    {
-    "nome": "Rs 125",
+    "nome": "Rs 125 (1991-2005)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-rs-125.jpg",
-    "tag": "aprilia-rs-125",
+    "tag": "aprilia-rs-125-1991-2005",
     "tipi": [
      {
       "nome": "Anabbaglianti",
-      "socket": "H11",
-      "handle": "kit-led-anabbaglianti-aprilia-rs-125"
+      "socket": "H1",
+      "handle": "kit-led-anabbaglianti-aprilia-rs-125-1991-2005"
      },
      {
       "nome": "Abbaglianti",
-      "socket": "H11",
-      "handle": "kit-led-abbaglianti-aprilia-rs-125"
+      "socket": "H3",
+      "handle": "kit-led-abbaglianti-aprilia-rs-125-1991-2005"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-aprilia-rs-125"
+      "handle": "kit-led-posizione-aprilia-rs-125-1991-2005"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-aprilia-rs-125"
+      "handle": "kit-led-frecce-aprilia-rs-125-1991-2005"
      },
      {
       "nome": "Stop",
       "socket": "BAY15D",
-      "handle": "kit-led-stop-aprilia-rs-125"
+      "handle": "kit-led-stop-aprilia-rs-125-1991-2005"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-aprilia-rs-125"
+      "handle": "kit-led-targa-aprilia-rs-125-1991-2005"
+     }
+    ]
+   },
+   {
+    "nome": "Rs 125 (2006-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-rs-125.jpg",
+    "tag": "aprilia-rs-125-2006-2020",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H11",
+      "handle": "kit-led-biluce-aprilia-rs-125-2006-2020"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-aprilia-rs-125-2006-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-aprilia-rs-125-2006-2020"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-aprilia-rs-125-2006-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-aprilia-rs-125-2006-2020"
      }
     ]
    },
@@ -1286,39 +1372,103 @@
     ]
    },
    {
-    "nome": "Rs 50",
+    "nome": "Rs 50 (1992-1996)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-rs-50.jpg",
-    "tag": "aprilia-rs-50",
+    "tag": "aprilia-rs-50-1992-1996",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H11",
-      "handle": "kit-led-anabbaglianti-aprilia-rs-50"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H11",
-      "handle": "kit-led-abbaglianti-aprilia-rs-50"
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-aprilia-rs-50-1992-1996"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-aprilia-rs-50"
+      "handle": "kit-led-posizione-aprilia-rs-50-1992-1996"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-aprilia-rs-50"
+      "handle": "kit-led-frecce-aprilia-rs-50-1992-1996"
      },
      {
       "nome": "Stop",
       "socket": "BAY15D",
-      "handle": "kit-led-stop-aprilia-rs-50"
+      "handle": "kit-led-stop-aprilia-rs-50-1992-1996"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-aprilia-rs-50"
+      "handle": "kit-led-targa-aprilia-rs-50-1992-1996"
+     }
+    ]
+   },
+   {
+    "nome": "Rs 50 (1997-2005)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-rs-50.jpg",
+    "tag": "aprilia-rs-50-1997-2005",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-anabbaglianti-aprilia-rs-50-1997-2005"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H3",
+      "handle": "kit-led-abbaglianti-aprilia-rs-50-1997-2005"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-aprilia-rs-50-1997-2005"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-aprilia-rs-50-1997-2005"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-aprilia-rs-50-1997-2005"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-aprilia-rs-50-1997-2005"
+     }
+    ]
+   },
+   {
+    "nome": "Rs 50 (2006-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-rs-50.jpg",
+    "tag": "aprilia-rs-50-2006-2020",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H11",
+      "handle": "kit-led-biluce-aprilia-rs-50-2006-2020"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-aprilia-rs-50-2006-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-aprilia-rs-50-2006-2020"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-aprilia-rs-50-2006-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-aprilia-rs-50-2006-2020"
      }
     ]
    },
@@ -2303,39 +2453,66 @@
     ]
    },
    {
-    "nome": "Sr 125",
+    "nome": "Sr 125 (1999-2001)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-sr-125.jpg",
-    "tag": "aprilia-sr-125",
+    "tag": "aprilia-sr-125-1999-2001",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H3",
-      "handle": "kit-led-anabbaglianti-aprilia-sr-125"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H11",
-      "handle": "kit-led-abbaglianti-aprilia-sr-125"
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "P26S",
+      "handle": "kit-led-biluce-aprilia-sr-125-1999-2001"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-aprilia-sr-125"
+      "handle": "kit-led-posizione-aprilia-sr-125-1999-2001"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-aprilia-sr-125"
+      "handle": "kit-led-frecce-aprilia-sr-125-1999-2001"
      },
      {
       "nome": "Stop",
       "socket": "BAY15D",
-      "handle": "kit-led-stop-aprilia-sr-125"
+      "handle": "kit-led-stop-aprilia-sr-125-1999-2001"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-aprilia-sr-125"
+      "handle": "kit-led-targa-aprilia-sr-125-1999-2001"
+     }
+    ]
+   },
+   {
+    "nome": "Sr 125 (2011-2016)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-sr-125.jpg",
+    "tag": "aprilia-sr-125-2011-2016",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H11",
+      "handle": "kit-led-biluce-aprilia-sr-125-2011-2016"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-aprilia-sr-125-2011-2016"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-aprilia-sr-125-2011-2016"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-aprilia-sr-125-2011-2016"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-aprilia-sr-125-2011-2016"
      }
     ]
    },
@@ -2727,39 +2904,98 @@
     ]
    },
    {
-    "nome": "Tuono 1000",
+    "nome": "Tuono 1000 (2003-2005)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-tuono-1000.jpg",
-    "tag": "aprilia-tuono-1000",
+    "tag": "aprilia-tuono-1000-2003-2005",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H11",
-      "handle": "kit-led-anabbaglianti-aprilia-tuono-1000"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H11",
-      "handle": "kit-led-abbaglianti-aprilia-tuono-1000"
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H7",
+      "handle": "kit-led-biluce-aprilia-tuono-1000-2003-2005"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-aprilia-tuono-1000"
+      "handle": "kit-led-posizione-aprilia-tuono-1000-2003-2005"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-aprilia-tuono-1000"
+      "handle": "kit-led-frecce-aprilia-tuono-1000-2003-2005"
      },
      {
       "nome": "Stop",
       "socket": "BAY15D",
-      "handle": "kit-led-stop-aprilia-tuono-1000"
+      "handle": "kit-led-stop-aprilia-tuono-1000-2003-2005"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-aprilia-tuono-1000"
+      "handle": "kit-led-targa-aprilia-tuono-1000-2003-2005"
+     }
+    ]
+   },
+   {
+    "nome": "Tuono 1000 (2006-2010)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-tuono-1000.jpg",
+    "tag": "aprilia-tuono-1000-2006-2010",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H11",
+      "handle": "kit-led-biluce-aprilia-tuono-1000-2006-2010"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-aprilia-tuono-1000-2006-2010"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-aprilia-tuono-1000-2006-2010"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-aprilia-tuono-1000-2006-2010"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-aprilia-tuono-1000-2006-2010"
+     }
+    ]
+   },
+   {
+    "nome": "Tuono 1000 (2011-2015)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-tuono-1000.jpg",
+    "tag": "aprilia-tuono-1000-2011-2015",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H7",
+      "handle": "kit-led-biluce-aprilia-tuono-1000-2011-2015"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-aprilia-tuono-1000-2011-2015"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-aprilia-tuono-1000-2011-2015"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-aprilia-tuono-1000-2011-2015"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-aprilia-tuono-1000-2011-2015"
      }
     ]
    },
@@ -2769,14 +3005,9 @@
     "tag": "aprilia-tuono-1100",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-aprilia-tuono-1100"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-aprilia-tuono-1100"
+      "handle": "kit-led-biluce-aprilia-tuono-1100"
      },
      {
       "nome": "Frecce",
@@ -2818,25 +3049,51 @@
     ]
    },
    {
-    "nome": "Tuono 125 (dal 2025)",
+    "nome": "Tuono 125 (2003-2004)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-tuono-125.jpg",
-    "tag": "aprilia-tuono-125-dal-2025",
+    "tag": "aprilia-tuono-125-dal-2025-2003-2004",
     "tipi": [
      {
-      "nome": "Faro LED di serie",
-      "socket": "non sostituibile",
-      "handle": "kit-led-fari-led-aprilia-tuono-125-dal-2025",
-      "led": true
+      "nome": "Anabbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-anabbaglianti-aprilia-tuono-125-dal-2025-2003-2004"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H3",
+      "handle": "kit-led-abbaglianti-aprilia-tuono-125-dal-2025-2003-2004"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-aprilia-tuono-125-dal-2025"
+      "handle": "kit-led-frecce-aprilia-tuono-125-dal-2025-2003-2004"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-aprilia-tuono-125-dal-2025"
+      "handle": "kit-led-targa-aprilia-tuono-125-dal-2025-2003-2004"
+     }
+    ]
+   },
+   {
+    "nome": "Tuono 125 (2017-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-tuono-125.jpg",
+    "tag": "aprilia-tuono-125-dal-2025-2017-2020",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H7",
+      "handle": "kit-led-biluce-aprilia-tuono-125-dal-2025-2017-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-aprilia-tuono-125-dal-2025-2017-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-aprilia-tuono-125-dal-2025-2017-2020"
      }
     ]
    },
@@ -9722,34 +9979,66 @@
     ]
    },
    {
-    "nome": "Variant 50",
+    "nome": "Variant 50 (1990-1997)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-derbi-variant-50.jpg",
-    "tag": "derbi-variant-50",
+    "tag": "derbi-variant-50-1990-1997",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "HS1",
-      "handle": "kit-led-biluce-derbi-variant-50"
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-derbi-variant-50-1990-1997"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-derbi-variant-50"
+      "handle": "kit-led-posizione-derbi-variant-50-1990-1997"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-derbi-variant-50"
+      "handle": "kit-led-frecce-derbi-variant-50-1990-1997"
      },
      {
       "nome": "Stop",
       "socket": "BAY15D",
-      "handle": "kit-led-stop-derbi-variant-50"
+      "handle": "kit-led-stop-derbi-variant-50-1990-1997"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-derbi-variant-50"
+      "handle": "kit-led-targa-derbi-variant-50-1990-1997"
+     }
+    ]
+   },
+   {
+    "nome": "Variant 50 (2010-2017)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-derbi-variant-50.jpg",
+    "tag": "derbi-variant-50-2010-2017",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H8",
+      "handle": "kit-led-biluce-derbi-variant-50-2010-2017"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-derbi-variant-50-2010-2017"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-derbi-variant-50-2010-2017"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-derbi-variant-50-2010-2017"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-derbi-variant-50-2010-2017"
      }
     ]
    },
@@ -12186,24 +12475,47 @@
     ]
    },
    {
-    "nome": "Streetfighter 1100",
+    "nome": "Streetfighter 1100 (2009-2014)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-ducati-streetfighter-1100.jpg",
-    "tag": "ducati-streetfighter-1100",
+    "tag": "ducati-streetfighter-1100-2009-2014",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-ducati-streetfighter-1100"
+      "handle": "kit-led-biluce-ducati-streetfighter-1100-2009-2014"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-ducati-streetfighter-1100"
+      "handle": "kit-led-frecce-ducati-streetfighter-1100-2009-2014"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-ducati-streetfighter-1100"
+      "handle": "kit-led-targa-ducati-streetfighter-1100-2009-2014"
+     }
+    ]
+   },
+   {
+    "nome": "Streetfighter 1100 (2020-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-ducati-streetfighter-1100.jpg",
+    "tag": "ducati-streetfighter-1100-2020-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-ducati-streetfighter-1100-2020-2021",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-ducati-streetfighter-1100-2020-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-ducati-streetfighter-1100-2020-2021"
      }
     ]
    },
@@ -14399,24 +14711,47 @@
     ]
    },
    {
-    "nome": "Cb 125 F",
+    "nome": "Cb 125 F (2015-2020)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-cb-125-f.jpg",
-    "tag": "honda-moto-cb-125-f",
+    "tag": "honda-moto-cb-125-f-2015-2020",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "HS1",
-      "handle": "kit-led-biluce-honda-moto-cb-125-f"
+      "handle": "kit-led-biluce-honda-moto-cb-125-f-2015-2020"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-cb-125-f"
+      "handle": "kit-led-frecce-honda-moto-cb-125-f-2015-2020"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-cb-125-f"
+      "handle": "kit-led-targa-honda-moto-cb-125-f-2015-2020"
+     }
+    ]
+   },
+   {
+    "nome": "Cb 125 F (2021-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-cb-125-f.jpg",
+    "tag": "honda-moto-cb-125-f-2021-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-honda-moto-cb-125-f-2021-2021",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-cb-125-f-2021-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-cb-125-f-2021-2021"
      }
     ]
    },
@@ -14923,34 +15258,57 @@
     ]
    },
    {
-    "nome": "Cbr 1000 Rr",
+    "nome": "Cbr 1000 Rr (2004-2016)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-cbr-1000-rr.jpg",
-    "tag": "honda-moto-cbr-1000-rr",
+    "tag": "honda-moto-cbr-1000-rr-2004-2016",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-honda-moto-cbr-1000-rr"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-honda-moto-cbr-1000-rr"
+      "handle": "kit-led-biluce-honda-moto-cbr-1000-rr-2004-2016"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-honda-moto-cbr-1000-rr"
+      "handle": "kit-led-posizione-honda-moto-cbr-1000-rr-2004-2016"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-cbr-1000-rr"
+      "handle": "kit-led-frecce-honda-moto-cbr-1000-rr-2004-2016"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-cbr-1000-rr"
+      "handle": "kit-led-targa-honda-moto-cbr-1000-rr-2004-2016"
+     }
+    ]
+   },
+   {
+    "nome": "Cbr 1000 Rr (2017-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-cbr-1000-rr.jpg",
+    "tag": "honda-moto-cbr-1000-rr-2017-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-honda-moto-cbr-1000-rr-2017-2020",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-honda-moto-cbr-1000-rr-2017-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-cbr-1000-rr-2017-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-cbr-1000-rr-2017-2020"
      }
     ]
    },
@@ -15112,29 +15470,47 @@
     ]
    },
    {
-    "nome": "Cbr 500 R",
+    "nome": "Cbr 500 R (2012-2016)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-cbr-500-r.jpg",
-    "tag": "honda-moto-cbr-500-r",
+    "tag": "honda-moto-cbr-500-r-2012-2016",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-honda-moto-cbr-500-r"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-honda-moto-cbr-500-r"
+      "handle": "kit-led-biluce-honda-moto-cbr-500-r-2012-2016"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-cbr-500-r"
+      "handle": "kit-led-frecce-honda-moto-cbr-500-r-2012-2016"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-cbr-500-r"
+      "handle": "kit-led-targa-honda-moto-cbr-500-r-2012-2016"
+     }
+    ]
+   },
+   {
+    "nome": "Cbr 500 R (2017-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-cbr-500-r.jpg",
+    "tag": "honda-moto-cbr-500-r-2017-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-honda-moto-cbr-500-r-2017-2021",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-cbr-500-r-2017-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-cbr-500-r-2017-2021"
      }
     ]
    },
@@ -15764,25 +16140,47 @@
     ]
    },
    {
-    "nome": "Crf 300 Rx",
+    "nome": "Crf 300 Rx (fino 2020)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-crf-300-rx.jpg",
-    "tag": "honda-moto-crf-300-rx",
+    "tag": "honda-moto-crf-300-rx-fino-2020",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-honda-moto-crf-300-rx-fino-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-crf-300-rx-fino-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-crf-300-rx-fino-2020"
+     }
+    ]
+   },
+   {
+    "nome": "Crf 300 Rx (dal 2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-crf-300-rx.jpg",
+    "tag": "honda-moto-crf-300-rx-dal-2021",
     "tipi": [
      {
       "nome": "Faro LED di serie",
       "socket": "non sostituibile",
-      "handle": "kit-led-fari-led-honda-moto-crf-300-rx",
+      "handle": "kit-led-fari-led-honda-moto-crf-300-rx-dal-2021",
       "led": true
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-crf-300-rx"
+      "handle": "kit-led-frecce-honda-moto-crf-300-rx-dal-2021"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-crf-300-rx"
+      "handle": "kit-led-targa-honda-moto-crf-300-rx-dal-2021"
      }
     ]
    },
@@ -16022,34 +16420,57 @@
     ]
    },
    {
-    "nome": "Crossrunner",
+    "nome": "Crossrunner (2010-2014)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-crossrunner.jpg",
-    "tag": "honda-moto-crossrunner",
+    "tag": "honda-moto-crossrunner-2010-2014",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-honda-moto-crossrunner"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-honda-moto-crossrunner"
+      "handle": "kit-led-biluce-honda-moto-crossrunner-2010-2014"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-honda-moto-crossrunner"
+      "handle": "kit-led-posizione-honda-moto-crossrunner-2010-2014"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-crossrunner"
+      "handle": "kit-led-frecce-honda-moto-crossrunner-2010-2014"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-crossrunner"
+      "handle": "kit-led-targa-honda-moto-crossrunner-2010-2014"
+     }
+    ]
+   },
+   {
+    "nome": "Crossrunner (2015-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-crossrunner.jpg",
+    "tag": "honda-moto-crossrunner-2015-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-honda-moto-crossrunner-2015-2020",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-honda-moto-crossrunner-2015-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-crossrunner-2015-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-crossrunner-2015-2020"
      }
     ]
    },
@@ -16059,14 +16480,9 @@
     "tag": "honda-moto-crosstourer",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-honda-moto-crosstourer"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-honda-moto-crosstourer"
+      "handle": "kit-led-biluce-honda-moto-crosstourer"
      },
      {
       "nome": "Posizione",
@@ -16448,34 +16864,67 @@
     ]
    },
    {
-    "nome": "Forza 300",
+    "nome": "Forza 300 (2013-2017)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-forza-300.jpg",
-    "tag": "honda-moto-forza-300",
+    "tag": "honda-moto-forza-300-2013-2017",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "HS1",
-      "handle": "kit-led-biluce-honda-moto-forza-300"
+      "socket": "H4",
+      "handle": "kit-led-biluce-honda-moto-forza-300-2013-2017"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-honda-moto-forza-300"
+      "handle": "kit-led-posizione-honda-moto-forza-300-2013-2017"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-forza-300"
+      "handle": "kit-led-frecce-honda-moto-forza-300-2013-2017"
      },
      {
       "nome": "Stop",
       "socket": "BAY15D",
-      "handle": "kit-led-stop-honda-moto-forza-300"
+      "handle": "kit-led-stop-honda-moto-forza-300-2013-2017"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-forza-300"
+      "handle": "kit-led-targa-honda-moto-forza-300-2013-2017"
+     }
+    ]
+   },
+   {
+    "nome": "Forza 300 (2018-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-forza-300.jpg",
+    "tag": "honda-moto-forza-300-2018-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-honda-moto-forza-300-2018-2020",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-honda-moto-forza-300-2018-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-forza-300-2018-2020"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-honda-moto-forza-300-2018-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-forza-300-2018-2020"
      }
     ]
    },
@@ -16845,34 +17294,67 @@
     ]
    },
    {
-    "nome": "Integra 750",
+    "nome": "Integra 750 (2014-2015)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-integra-750.jpg",
-    "tag": "honda-moto-integra-750",
+    "tag": "honda-moto-integra-750-2014-2015",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-honda-moto-integra-750"
+      "handle": "kit-led-biluce-honda-moto-integra-750-2014-2015"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-honda-moto-integra-750"
+      "handle": "kit-led-posizione-honda-moto-integra-750-2014-2015"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-integra-750"
+      "handle": "kit-led-frecce-honda-moto-integra-750-2014-2015"
      },
      {
       "nome": "Stop",
       "socket": "BAY15D",
-      "handle": "kit-led-stop-honda-moto-integra-750"
+      "handle": "kit-led-stop-honda-moto-integra-750-2014-2015"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-integra-750"
+      "handle": "kit-led-targa-honda-moto-integra-750-2014-2015"
+     }
+    ]
+   },
+   {
+    "nome": "Integra 750 (2016-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-integra-750.jpg",
+    "tag": "honda-moto-integra-750-2016-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-honda-moto-integra-750-2016-2020",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-honda-moto-integra-750-2016-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-integra-750-2016-2020"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-honda-moto-integra-750-2016-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-integra-750-2016-2020"
      }
     ]
    },
@@ -17084,29 +17566,57 @@
     ]
    },
    {
-    "nome": "Nc 750 X",
+    "nome": "Nc 750 X (2014-2017)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-nc-750-x.jpg",
-    "tag": "honda-moto-nc-750-x",
+    "tag": "honda-moto-nc-750-x-2014-2017",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-honda-moto-nc-750-x"
+      "handle": "kit-led-biluce-honda-moto-nc-750-x-2014-2017"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-honda-moto-nc-750-x"
+      "handle": "kit-led-posizione-honda-moto-nc-750-x-2014-2017"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-nc-750-x"
+      "handle": "kit-led-frecce-honda-moto-nc-750-x-2014-2017"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-nc-750-x"
+      "handle": "kit-led-targa-honda-moto-nc-750-x-2014-2017"
+     }
+    ]
+   },
+   {
+    "nome": "Nc 750 X (2018-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-nc-750-x.jpg",
+    "tag": "honda-moto-nc-750-x-2018-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-honda-moto-nc-750-x-2018-2021",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-honda-moto-nc-750-x-2018-2021"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-nc-750-x-2018-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-nc-750-x-2018-2021"
      }
     ]
    },
@@ -17906,66 +18416,132 @@
     ]
    },
    {
-    "nome": "Sh 125",
+    "nome": "Sh 125 (2000-2016)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-sh-125.jpg",
-    "tag": "honda-moto-sh-125",
+    "tag": "honda-moto-sh-125-2000-2016",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-honda-moto-sh-125"
+      "handle": "kit-led-biluce-honda-moto-sh-125-2000-2016"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-honda-moto-sh-125"
+      "handle": "kit-led-posizione-honda-moto-sh-125-2000-2016"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-sh-125"
+      "handle": "kit-led-frecce-honda-moto-sh-125-2000-2016"
      },
      {
       "nome": "Stop",
       "socket": "BAY15D",
-      "handle": "kit-led-stop-honda-moto-sh-125"
+      "handle": "kit-led-stop-honda-moto-sh-125-2000-2016"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-sh-125"
+      "handle": "kit-led-targa-honda-moto-sh-125-2000-2016"
      }
     ]
    },
    {
-    "nome": "Sh 150",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-sh-150.jpg",
-    "tag": "honda-moto-sh-150",
+    "nome": "Sh 125 (2017-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-sh-125.jpg",
+    "tag": "honda-moto-sh-125-2017-2021",
     "tipi": [
      {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-honda-moto-sh-150"
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-honda-moto-sh-125-2017-2021",
+      "led": true
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-honda-moto-sh-150"
+      "handle": "kit-led-posizione-honda-moto-sh-125-2017-2021"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-sh-150"
+      "handle": "kit-led-frecce-honda-moto-sh-125-2017-2021"
      },
      {
       "nome": "Stop",
       "socket": "BAY15D",
-      "handle": "kit-led-stop-honda-moto-sh-150"
+      "handle": "kit-led-stop-honda-moto-sh-125-2017-2021"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-sh-150"
+      "handle": "kit-led-targa-honda-moto-sh-125-2017-2021"
+     }
+    ]
+   },
+   {
+    "nome": "Sh 150 (2000-2016)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-sh-150.jpg",
+    "tag": "honda-moto-sh-150-2000-2016",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-honda-moto-sh-150-2000-2016"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-honda-moto-sh-150-2000-2016"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-sh-150-2000-2016"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-honda-moto-sh-150-2000-2016"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-sh-150-2000-2016"
+     }
+    ]
+   },
+   {
+    "nome": "Sh 150 (2017-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-sh-150.jpg",
+    "tag": "honda-moto-sh-150-2017-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-honda-moto-sh-150-2017-2020",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-honda-moto-sh-150-2017-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-sh-150-2017-2020"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-honda-moto-sh-150-2017-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-sh-150-2017-2020"
      }
     ]
    },
@@ -18756,29 +19332,69 @@
     ]
    },
    {
-    "nome": "Vfr 800",
+    "nome": "Vfr 800 (1998-2001)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-vfr-800.jpg",
-    "tag": "honda-moto-vfr-800",
+    "tag": "honda-moto-vfr-800-1998-2001",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-anabbaglianti-honda-moto-vfr-800"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-honda-moto-vfr-800"
+      "handle": "kit-led-biluce-honda-moto-vfr-800-1998-2001"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-vfr-800"
+      "handle": "kit-led-frecce-honda-moto-vfr-800-1998-2001"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-vfr-800"
+      "handle": "kit-led-targa-honda-moto-vfr-800-1998-2001"
+     }
+    ]
+   },
+   {
+    "nome": "Vfr 800 (2002-2013)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-vfr-800.jpg",
+    "tag": "honda-moto-vfr-800-2002-2013",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H7",
+      "handle": "kit-led-biluce-honda-moto-vfr-800-2002-2013"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-vfr-800-2002-2013"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-vfr-800-2002-2013"
+     }
+    ]
+   },
+   {
+    "nome": "Vfr 800 (2014-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-vfr-800.jpg",
+    "tag": "honda-moto-vfr-800-2014-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-honda-moto-vfr-800-2014-2020",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-honda-moto-vfr-800-2014-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-honda-moto-vfr-800-2014-2020"
      }
     ]
    },
@@ -22604,29 +23220,47 @@
     ]
    },
    {
-    "nome": "Ninja 1000 Zx 10Rr",
+    "nome": "Ninja 1000 Zx 10Rr (2017-2020)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-ninja-1000-zx-10rr.jpg",
-    "tag": "kawasaki-ninja-1000-zx-10rr",
+    "tag": "kawasaki-ninja-1000-zx-10rr-2017-2020",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-kawasaki-ninja-1000-zx-10rr"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-kawasaki-ninja-1000-zx-10rr"
+      "handle": "kit-led-biluce-kawasaki-ninja-1000-zx-10rr-2017-2020"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-ninja-1000-zx-10rr"
+      "handle": "kit-led-frecce-kawasaki-ninja-1000-zx-10rr-2017-2020"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-ninja-1000-zx-10rr"
+      "handle": "kit-led-targa-kawasaki-ninja-1000-zx-10rr-2017-2020"
+     }
+    ]
+   },
+   {
+    "nome": "Ninja 1000 Zx 10Rr (2021-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-ninja-1000-zx-10rr.jpg",
+    "tag": "kawasaki-ninja-1000-zx-10rr-2021-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-kawasaki-ninja-1000-zx-10rr-2021-2021",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-kawasaki-ninja-1000-zx-10rr-2021-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-kawasaki-ninja-1000-zx-10rr-2021-2021"
      }
     ]
    },
@@ -22922,34 +23556,57 @@
     ]
    },
    {
-    "nome": "Ninja 650",
+    "nome": "Ninja 650 (2017-2019)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-ninja-650.jpg",
-    "tag": "kawasaki-ninja-650",
+    "tag": "kawasaki-ninja-650-2017-2019",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-kawasaki-ninja-650"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-kawasaki-ninja-650"
+      "handle": "kit-led-biluce-kawasaki-ninja-650-2017-2019"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-kawasaki-ninja-650"
+      "handle": "kit-led-posizione-kawasaki-ninja-650-2017-2019"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-ninja-650"
+      "handle": "kit-led-frecce-kawasaki-ninja-650-2017-2019"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-ninja-650"
+      "handle": "kit-led-targa-kawasaki-ninja-650-2017-2019"
+     }
+    ]
+   },
+   {
+    "nome": "Ninja 650 (2020-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-ninja-650.jpg",
+    "tag": "kawasaki-ninja-650-2020-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-kawasaki-ninja-650-2020-2021",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-kawasaki-ninja-650-2020-2021"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-kawasaki-ninja-650-2020-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-kawasaki-ninja-650-2020-2021"
      }
     ]
    },
@@ -23107,34 +23764,57 @@
     ]
    },
    {
-    "nome": "Versys 1000",
+    "nome": "Versys 1000 (2011-2020)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-versys-1000.jpg",
-    "tag": "kawasaki-versys-1000",
+    "tag": "kawasaki-versys-1000-2011-2020",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-kawasaki-versys-1000"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-kawasaki-versys-1000"
+      "handle": "kit-led-biluce-kawasaki-versys-1000-2011-2020"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-kawasaki-versys-1000"
+      "handle": "kit-led-posizione-kawasaki-versys-1000-2011-2020"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-versys-1000"
+      "handle": "kit-led-frecce-kawasaki-versys-1000-2011-2020"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-versys-1000"
+      "handle": "kit-led-targa-kawasaki-versys-1000-2011-2020"
+     }
+    ]
+   },
+   {
+    "nome": "Versys 1000 (2021-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-versys-1000.jpg",
+    "tag": "kawasaki-versys-1000-2021-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-kawasaki-versys-1000-2021-2021",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-kawasaki-versys-1000-2021-2021"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-kawasaki-versys-1000-2021-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-kawasaki-versys-1000-2021-2021"
      }
     ]
    },
@@ -23144,14 +23824,9 @@
     "tag": "kawasaki-versys-650",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-kawasaki-versys-650"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-kawasaki-versys-650"
+      "handle": "kit-led-biluce-kawasaki-versys-650"
      },
      {
       "nome": "Posizione",
@@ -23522,34 +24197,57 @@
     ]
    },
    {
-    "nome": "Z 1000 Sx",
+    "nome": "Z 1000 Sx (2011-2016)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-z-1000-sx.jpg",
-    "tag": "kawasaki-z-1000-sx",
+    "tag": "kawasaki-z-1000-sx-2011-2016",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-kawasaki-z-1000-sx"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-kawasaki-z-1000-sx"
+      "handle": "kit-led-biluce-kawasaki-z-1000-sx-2011-2016"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-kawasaki-z-1000-sx"
+      "handle": "kit-led-posizione-kawasaki-z-1000-sx-2011-2016"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-z-1000-sx"
+      "handle": "kit-led-frecce-kawasaki-z-1000-sx-2011-2016"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-z-1000-sx"
+      "handle": "kit-led-targa-kawasaki-z-1000-sx-2011-2016"
+     }
+    ]
+   },
+   {
+    "nome": "Z 1000 Sx (2017-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-z-1000-sx.jpg",
+    "tag": "kawasaki-z-1000-sx-2017-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-kawasaki-z-1000-sx-2017-2020",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-kawasaki-z-1000-sx-2017-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-kawasaki-z-1000-sx-2017-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-kawasaki-z-1000-sx-2017-2020"
      }
     ]
    },
@@ -23836,34 +24534,56 @@
     ]
    },
    {
-    "nome": "Z 750",
+    "nome": "Z 750 (1976-1983)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-z-750.jpg",
-    "tag": "kawasaki-z-750",
+    "tag": "kawasaki-z-750-1976-1983",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-anabbaglianti-kawasaki-z-750"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-kawasaki-z-750"
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-kawasaki-z-750-1976-1983"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-kawasaki-z-750"
+      "handle": "kit-led-posizione-kawasaki-z-750-1976-1983"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-z-750"
+      "handle": "kit-led-frecce-kawasaki-z-750-1976-1983"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-z-750"
+      "handle": "kit-led-targa-kawasaki-z-750-1976-1983"
+     }
+    ]
+   },
+   {
+    "nome": "Z 750 (2003-2014)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-z-750.jpg",
+    "tag": "kawasaki-z-750-2003-2014",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H7",
+      "handle": "kit-led-biluce-kawasaki-z-750-2003-2014"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-kawasaki-z-750-2003-2014"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-kawasaki-z-750-2003-2014"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-kawasaki-z-750-2003-2014"
      }
     ]
    },
@@ -23900,34 +24620,57 @@
     ]
    },
    {
-    "nome": "Z 900",
+    "nome": "Z 900 (2017-2019)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-z-900.jpg",
-    "tag": "kawasaki-z-900",
+    "tag": "kawasaki-z-900-2017-2019",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-kawasaki-z-900"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-kawasaki-z-900"
+      "handle": "kit-led-biluce-kawasaki-z-900-2017-2019"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-kawasaki-z-900"
+      "handle": "kit-led-posizione-kawasaki-z-900-2017-2019"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-z-900"
+      "handle": "kit-led-frecce-kawasaki-z-900-2017-2019"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-z-900"
+      "handle": "kit-led-targa-kawasaki-z-900-2017-2019"
+     }
+    ]
+   },
+   {
+    "nome": "Z 900 (2020-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-z-900.jpg",
+    "tag": "kawasaki-z-900-2020-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-kawasaki-z-900-2020-2021",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-kawasaki-z-900-2020-2021"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-kawasaki-z-900-2020-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-kawasaki-z-900-2020-2021"
      }
     ]
    },
@@ -28584,10 +29327,9 @@
     "tag": "lambretta-v-125-special",
     "tipi": [
      {
-      "nome": "Faro LED di serie",
-      "socket": "non sostituibile",
-      "handle": "kit-led-fari-led-lambretta-v-125-special",
-      "led": true
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-lambretta-v-125-special"
      },
      {
       "nome": "Posizione",
@@ -28612,10 +29354,9 @@
     "tag": "lambretta-v-200-special",
     "tipi": [
      {
-      "nome": "Faro LED di serie",
-      "socket": "non sostituibile",
-      "handle": "kit-led-fari-led-lambretta-v-200-special",
-      "led": true
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-lambretta-v-200-special"
      },
      {
       "nome": "Posizione",
@@ -28640,10 +29381,9 @@
     "tag": "lambretta-v-50-special",
     "tipi": [
      {
-      "nome": "Faro LED di serie",
-      "socket": "non sostituibile",
-      "handle": "kit-led-fari-led-lambretta-v-50-special",
-      "led": true
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-lambretta-v-50-special"
      },
      {
       "nome": "Posizione",
@@ -31904,34 +32644,56 @@
     ]
    },
    {
-    "nome": "F4 1000",
+    "nome": "F4 1000 (2003-2009)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-mv-agusta-f4-1000.jpg",
-    "tag": "mv-agusta-f4-1000",
+    "tag": "mv-agusta-f4-1000-2003-2009",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H3",
-      "handle": "kit-led-anabbaglianti-mv-agusta-f4-1000"
-     },
-     {
-      "nome": "Abbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "HB3",
-      "handle": "kit-led-abbaglianti-mv-agusta-f4-1000"
+      "handle": "kit-led-biluce-mv-agusta-f4-1000-2003-2009"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-mv-agusta-f4-1000"
+      "handle": "kit-led-posizione-mv-agusta-f4-1000-2003-2009"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-mv-agusta-f4-1000"
+      "handle": "kit-led-frecce-mv-agusta-f4-1000-2003-2009"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-mv-agusta-f4-1000"
+      "handle": "kit-led-targa-mv-agusta-f4-1000-2003-2009"
+     }
+    ]
+   },
+   {
+    "nome": "F4 1000 (2010-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-mv-agusta-f4-1000.jpg",
+    "tag": "mv-agusta-f4-1000-2010-2020",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "D2S",
+      "handle": "kit-led-biluce-mv-agusta-f4-1000-2010-2020"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-mv-agusta-f4-1000-2010-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-mv-agusta-f4-1000-2010-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-mv-agusta-f4-1000-2010-2020"
      }
     ]
    },
@@ -34649,66 +35411,120 @@
     ]
    },
    {
-    "nome": "Burgman An 400",
+    "nome": "Burgman An 400 (1999-2016)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-burgman-an-400.jpg",
-    "tag": "suzuki-moto-burgman-an-400",
+    "tag": "suzuki-moto-burgman-an-400-1999-2016",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-suzuki-moto-burgman-an-400"
-     },
-     {
-      "nome": "Abbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-abbaglianti-suzuki-moto-burgman-an-400"
+      "handle": "kit-led-biluce-suzuki-moto-burgman-an-400-1999-2016"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-suzuki-moto-burgman-an-400"
+      "handle": "kit-led-posizione-suzuki-moto-burgman-an-400-1999-2016"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-suzuki-moto-burgman-an-400"
+      "handle": "kit-led-frecce-suzuki-moto-burgman-an-400-1999-2016"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-suzuki-moto-burgman-an-400"
+      "handle": "kit-led-targa-suzuki-moto-burgman-an-400-1999-2016"
      }
     ]
    },
    {
-    "nome": "Burgman An 650",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-burgman-an-650.jpg",
-    "tag": "suzuki-moto-burgman-an-650",
+    "nome": "Burgman An 400 (2017-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-burgman-an-400.jpg",
+    "tag": "suzuki-moto-burgman-an-400-2017-2020",
     "tipi": [
      {
-      "nome": "Bi-luce (Anab+Abba)",
+      "nome": "Anabbaglianti",
       "socket": "H4",
-      "handle": "kit-led-biluce-suzuki-moto-burgman-an-650"
+      "handle": "kit-led-anabbaglianti-suzuki-moto-burgman-an-400-2017-2020"
      },
      {
       "nome": "Abbaglianti",
       "socket": "H7",
-      "handle": "kit-led-abbaglianti-suzuki-moto-burgman-an-650"
+      "handle": "kit-led-abbaglianti-suzuki-moto-burgman-an-400-2017-2020"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-suzuki-moto-burgman-an-650"
+      "handle": "kit-led-posizione-suzuki-moto-burgman-an-400-2017-2020"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-suzuki-moto-burgman-an-650"
+      "handle": "kit-led-frecce-suzuki-moto-burgman-an-400-2017-2020"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-suzuki-moto-burgman-an-650"
+      "handle": "kit-led-targa-suzuki-moto-burgman-an-400-2017-2020"
+     }
+    ]
+   },
+   {
+    "nome": "Burgman An 650 (2002-2003)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-burgman-an-650.jpg",
+    "tag": "suzuki-moto-burgman-an-650-2002-2003",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-suzuki-moto-burgman-an-650-2002-2003"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-suzuki-moto-burgman-an-650-2002-2003"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-suzuki-moto-burgman-an-650-2002-2003"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-suzuki-moto-burgman-an-650-2002-2003"
+     }
+    ]
+   },
+   {
+    "nome": "Burgman An 650 (2004-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-burgman-an-650.jpg",
+    "tag": "suzuki-moto-burgman-an-650-2004-2020",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-suzuki-moto-burgman-an-650-2004-2020"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-suzuki-moto-burgman-an-650-2004-2020"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-suzuki-moto-burgman-an-650-2004-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-suzuki-moto-burgman-an-650-2004-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-suzuki-moto-burgman-an-650-2004-2020"
      }
     ]
    },
@@ -35666,34 +36482,57 @@
     ]
    },
    {
-    "nome": "Gsx 1300",
+    "nome": "Gsx 1300 (1999-2017)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-gsx-1300.jpg",
-    "tag": "suzuki-moto-gsx-1300",
+    "tag": "suzuki-moto-gsx-1300-1999-2017",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-anabbaglianti-suzuki-moto-gsx-1300"
-     },
-     {
-      "nome": "Abbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "HB3",
-      "handle": "kit-led-abbaglianti-suzuki-moto-gsx-1300"
+      "handle": "kit-led-biluce-suzuki-moto-gsx-1300-1999-2017"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-suzuki-moto-gsx-1300"
+      "handle": "kit-led-posizione-suzuki-moto-gsx-1300-1999-2017"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-suzuki-moto-gsx-1300"
+      "handle": "kit-led-frecce-suzuki-moto-gsx-1300-1999-2017"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-suzuki-moto-gsx-1300"
+      "handle": "kit-led-targa-suzuki-moto-gsx-1300-1999-2017"
+     }
+    ]
+   },
+   {
+    "nome": "Gsx 1300 (2021-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-gsx-1300.jpg",
+    "tag": "suzuki-moto-gsx-1300-2021-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-suzuki-moto-gsx-1300-2021-2021",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-suzuki-moto-gsx-1300-2021-2021"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-suzuki-moto-gsx-1300-2021-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-suzuki-moto-gsx-1300-2021-2021"
      }
     ]
    },
@@ -35949,34 +36788,120 @@
     ]
    },
    {
-    "nome": "Gsx R 600",
+    "nome": "Gsx R 600 (1997-2003)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-gsx-r-600.jpg",
-    "tag": "suzuki-moto-gsx-r-600",
+    "tag": "suzuki-moto-gsx-r-600-1997-2003",
     "tipi": [
      {
-      "nome": "Anabbaglianti",
-      "socket": "H7",
-      "handle": "kit-led-anabbaglianti-suzuki-moto-gsx-r-600"
-     },
-     {
-      "nome": "Abbaglianti",
+      "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-abbaglianti-suzuki-moto-gsx-r-600"
+      "handle": "kit-led-biluce-suzuki-moto-gsx-r-600-1997-2003"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-suzuki-moto-gsx-r-600"
+      "handle": "kit-led-posizione-suzuki-moto-gsx-r-600-1997-2003"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-suzuki-moto-gsx-r-600"
+      "handle": "kit-led-frecce-suzuki-moto-gsx-r-600-1997-2003"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-suzuki-moto-gsx-r-600"
+      "handle": "kit-led-targa-suzuki-moto-gsx-r-600-1997-2003"
+     }
+    ]
+   },
+   {
+    "nome": "Gsx R 600 (2004-2007)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-gsx-r-600.jpg",
+    "tag": "suzuki-moto-gsx-r-600-2004-2007",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H9",
+      "handle": "kit-led-anabbaglianti-suzuki-moto-gsx-r-600-2004-2007"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-suzuki-moto-gsx-r-600-2004-2007"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-suzuki-moto-gsx-r-600-2004-2007"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-suzuki-moto-gsx-r-600-2004-2007"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-suzuki-moto-gsx-r-600-2004-2007"
+     }
+    ]
+   },
+   {
+    "nome": "Gsx R 600 (2008-2010)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-gsx-r-600.jpg",
+    "tag": "suzuki-moto-gsx-r-600-2008-2010",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H7",
+      "handle": "kit-led-biluce-suzuki-moto-gsx-r-600-2008-2010"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-suzuki-moto-gsx-r-600-2008-2010"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-suzuki-moto-gsx-r-600-2008-2010"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-suzuki-moto-gsx-r-600-2008-2010"
+     }
+    ]
+   },
+   {
+    "nome": "Gsx R 600 (2011-2016)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-gsx-r-600.jpg",
+    "tag": "suzuki-moto-gsx-r-600-2011-2016",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-suzuki-moto-gsx-r-600-2011-2016"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "HB3",
+      "handle": "kit-led-abbaglianti-suzuki-moto-gsx-r-600-2011-2016"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-suzuki-moto-gsx-r-600-2011-2016"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-suzuki-moto-gsx-r-600-2011-2016"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-suzuki-moto-gsx-r-600-2011-2016"
      }
     ]
    },
@@ -38104,29 +39029,56 @@
     ]
    },
    {
-    "nome": "Joyride 125",
+    "nome": "Joyride 125 (2000-2004)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-sym-joyride-125.jpg",
-    "tag": "sym-joyride-125",
+    "tag": "sym-joyride-125-2000-2004",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-sym-joyride-125"
+      "handle": "kit-led-biluce-sym-joyride-125-2000-2004"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-sym-joyride-125"
+      "handle": "kit-led-posizione-sym-joyride-125-2000-2004"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-sym-joyride-125"
+      "handle": "kit-led-frecce-sym-joyride-125-2000-2004"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-sym-joyride-125"
+      "handle": "kit-led-targa-sym-joyride-125-2000-2004"
+     }
+    ]
+   },
+   {
+    "nome": "Joyride 125 (2007-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-sym-joyride-125.jpg",
+    "tag": "sym-joyride-125-2007-2020",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H11",
+      "handle": "kit-led-biluce-sym-joyride-125-2007-2020"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-sym-joyride-125-2007-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-sym-joyride-125-2007-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-sym-joyride-125-2007-2020"
      }
     ]
    },
@@ -38158,29 +39110,56 @@
     ]
    },
    {
-    "nome": "Joyride 200",
+    "nome": "Joyride 200 (2003-2004)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4bb5a164310fbd04fe4fc48de8342964145972a4/mb-sym-joyride-200.jpg",
-    "tag": "sym-joyride-200",
+    "tag": "sym-joyride-200-2003-2004",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-sym-joyride-200"
+      "handle": "kit-led-biluce-sym-joyride-200-2003-2004"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-sym-joyride-200"
+      "handle": "kit-led-posizione-sym-joyride-200-2003-2004"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-sym-joyride-200"
+      "handle": "kit-led-frecce-sym-joyride-200-2003-2004"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-sym-joyride-200"
+      "handle": "kit-led-targa-sym-joyride-200-2003-2004"
+     }
+    ]
+   },
+   {
+    "nome": "Joyride 200 (2007-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4bb5a164310fbd04fe4fc48de8342964145972a4/mb-sym-joyride-200.jpg",
+    "tag": "sym-joyride-200-2007-2020",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H11",
+      "handle": "kit-led-biluce-sym-joyride-200-2007-2020"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-sym-joyride-200-2007-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-sym-joyride-200-2007-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-sym-joyride-200-2007-2020"
      }
     ]
    },
@@ -38671,51 +39650,102 @@
     ]
    },
    {
-    "nome": "Symphony 200",
+    "nome": "Symphony 200 (2015-2020)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-sym-symphony-200.jpg",
-    "tag": "sym-symphony-200",
+    "tag": "sym-symphony-200-2015-2020",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-sym-symphony-200"
+      "handle": "kit-led-biluce-sym-symphony-200-2015-2020"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-sym-symphony-200"
+      "handle": "kit-led-frecce-sym-symphony-200-2015-2020"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-sym-symphony-200"
+      "handle": "kit-led-targa-sym-symphony-200-2015-2020"
      }
     ]
    },
    {
-    "nome": "Symphony 50",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-sym-symphony-50.jpg",
-    "tag": "sym-symphony-50",
+    "nome": "Symphony 200 (2021-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-sym-symphony-200.jpg",
+    "tag": "sym-symphony-200-2021-2021",
     "tipi": [
      {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-sym-symphony-50"
-     },
-     {
-      "nome": "Posizione",
-      "socket": "T10",
-      "handle": "kit-led-posizione-sym-symphony-50"
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-sym-symphony-200-2021-2021",
+      "led": true
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-sym-symphony-50"
+      "handle": "kit-led-frecce-sym-symphony-200-2021-2021"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-sym-symphony-50"
+      "handle": "kit-led-targa-sym-symphony-200-2021-2021"
+     }
+    ]
+   },
+   {
+    "nome": "Symphony 50 (2010-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-sym-symphony-50.jpg",
+    "tag": "sym-symphony-50-2010-2020",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-sym-symphony-50-2010-2020"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-sym-symphony-50-2010-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-sym-symphony-50-2010-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-sym-symphony-50-2010-2020"
+     }
+    ]
+   },
+   {
+    "nome": "Symphony 50 (2021-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-sym-symphony-50.jpg",
+    "tag": "sym-symphony-50-2021-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-sym-symphony-50-2021-2021",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-sym-symphony-50-2021-2021"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-sym-symphony-50-2021-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-sym-symphony-50-2021-2021"
      }
     ]
    },
@@ -40171,24 +41201,47 @@
     ]
    },
    {
-    "nome": "Tiger 900",
+    "nome": "Tiger 900 (1993-2001)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-triumph-tiger-900.jpg",
-    "tag": "triumph-tiger-900",
+    "tag": "triumph-tiger-900-1993-2001",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-triumph-tiger-900"
+      "handle": "kit-led-biluce-triumph-tiger-900-1993-2001"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-triumph-tiger-900"
+      "handle": "kit-led-frecce-triumph-tiger-900-1993-2001"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-triumph-tiger-900"
+      "handle": "kit-led-targa-triumph-tiger-900-1993-2001"
+     }
+    ]
+   },
+   {
+    "nome": "Tiger 900 (2020-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-triumph-tiger-900.jpg",
+    "tag": "triumph-tiger-900-2020-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-triumph-tiger-900-2020-2021",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-triumph-tiger-900-2020-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-triumph-tiger-900-2020-2021"
      }
     ]
    },
@@ -40714,25 +41767,47 @@
     ]
    },
    {
-    "nome": "Elettrica",
+    "nome": "Elettrica (2018-2019)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-elettrica.jpg",
-    "tag": "vespa-elettrica",
+    "tag": "vespa-elettrica-2018-2019",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-vespa-elettrica-2018-2019"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-vespa-elettrica-2018-2019"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-vespa-elettrica-2018-2019"
+     }
+    ]
+   },
+   {
+    "nome": "Elettrica (2020-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-elettrica.jpg",
+    "tag": "vespa-elettrica-2020-2021",
     "tipi": [
      {
       "nome": "Faro LED di serie",
       "socket": "non sostituibile",
-      "handle": "kit-led-fari-led-vespa-elettrica",
+      "handle": "kit-led-fari-led-vespa-elettrica-2020-2021",
       "led": true
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-vespa-elettrica"
+      "handle": "kit-led-frecce-vespa-elettrica-2020-2021"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-vespa-elettrica"
+      "handle": "kit-led-targa-vespa-elettrica-2020-2021"
      }
     ]
    },
@@ -40791,29 +41866,57 @@
     ]
    },
    {
-    "nome": "Gts 125",
+    "nome": "Gts 125 (2007-2018)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-gts-125.jpg",
-    "tag": "vespa-gts-125",
+    "tag": "vespa-gts-125-2007-2018",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "HS1",
-      "handle": "kit-led-biluce-vespa-gts-125"
+      "socket": "H4",
+      "handle": "kit-led-biluce-vespa-gts-125-2007-2018"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-vespa-gts-125"
+      "handle": "kit-led-posizione-vespa-gts-125-2007-2018"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-vespa-gts-125"
+      "handle": "kit-led-frecce-vespa-gts-125-2007-2018"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-vespa-gts-125"
+      "handle": "kit-led-targa-vespa-gts-125-2007-2018"
+     }
+    ]
+   },
+   {
+    "nome": "Gts 125 (2019-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-gts-125.jpg",
+    "tag": "vespa-gts-125-2019-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-vespa-gts-125-2019-2021",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-vespa-gts-125-2019-2021"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-vespa-gts-125-2019-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-vespa-gts-125-2019-2021"
      }
     ]
    },
@@ -41056,24 +42159,69 @@
     ]
    },
    {
-    "nome": "Primavera 150",
+    "nome": "Primavera 150 (2014-2016)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-primavera-150.jpg",
-    "tag": "vespa-primavera-150",
+    "tag": "vespa-primavera-150-2014-2016",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-vespa-primavera-150"
+      "handle": "kit-led-biluce-vespa-primavera-150-2014-2016"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-vespa-primavera-150"
+      "handle": "kit-led-frecce-vespa-primavera-150-2014-2016"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-vespa-primavera-150"
+      "handle": "kit-led-targa-vespa-primavera-150-2014-2016"
+     }
+    ]
+   },
+   {
+    "nome": "Primavera 150 (2017-2017)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-primavera-150.jpg",
+    "tag": "vespa-primavera-150-2017-2017",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "HS1",
+      "handle": "kit-led-biluce-vespa-primavera-150-2017-2017"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-vespa-primavera-150-2017-2017"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-vespa-primavera-150-2017-2017"
+     }
+    ]
+   },
+   {
+    "nome": "Primavera 150 (2018-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-primavera-150.jpg",
+    "tag": "vespa-primavera-150-2018-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-vespa-primavera-150-2018-2021",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-vespa-primavera-150-2018-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-vespa-primavera-150-2018-2021"
      }
     ]
    },
@@ -41316,68 +42464,137 @@
     ]
    },
    {
-    "nome": "Sprint 125",
+    "nome": "Sprint 125 (2014-2019)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-sprint-125.jpg",
-    "tag": "vespa-sprint-125",
+    "tag": "vespa-sprint-125-2014-2019",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "HS1",
-      "handle": "kit-led-biluce-vespa-sprint-125"
+      "socket": "H4",
+      "handle": "kit-led-biluce-vespa-sprint-125-2014-2019"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-vespa-sprint-125"
+      "handle": "kit-led-frecce-vespa-sprint-125-2014-2019"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-vespa-sprint-125"
+      "handle": "kit-led-targa-vespa-sprint-125-2014-2019"
      }
     ]
    },
    {
-    "nome": "Sprint 150",
+    "nome": "Sprint 125 (2021-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-sprint-125.jpg",
+    "tag": "vespa-sprint-125-2021-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-vespa-sprint-125-2021-2021",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-vespa-sprint-125-2021-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-vespa-sprint-125-2021-2021"
+     }
+    ]
+   },
+   {
+    "nome": "Sprint 150 (2015-2020)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-sprint-150.jpg",
-    "tag": "vespa-sprint-150",
+    "tag": "vespa-sprint-150-2015-2020",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "HS1",
-      "handle": "kit-led-biluce-vespa-sprint-150"
+      "socket": "H4",
+      "handle": "kit-led-biluce-vespa-sprint-150-2015-2020"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-vespa-sprint-150"
+      "handle": "kit-led-frecce-vespa-sprint-150-2015-2020"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-vespa-sprint-150"
+      "handle": "kit-led-targa-vespa-sprint-150-2015-2020"
      }
     ]
    },
    {
-    "nome": "Sprint 50",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-sprint-50.jpg",
-    "tag": "vespa-sprint-50",
+    "nome": "Sprint 150 (2021-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-sprint-150.jpg",
+    "tag": "vespa-sprint-150-2021-2021",
     "tipi": [
      {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "HS1",
-      "handle": "kit-led-biluce-vespa-sprint-50"
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-vespa-sprint-150-2021-2021",
+      "led": true
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-vespa-sprint-50"
+      "handle": "kit-led-frecce-vespa-sprint-150-2021-2021"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-vespa-sprint-50"
+      "handle": "kit-led-targa-vespa-sprint-150-2021-2021"
+     }
+    ]
+   },
+   {
+    "nome": "Sprint 50 (2014-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-sprint-50.jpg",
+    "tag": "vespa-sprint-50-2014-2020",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-vespa-sprint-50-2014-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-vespa-sprint-50-2014-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-vespa-sprint-50-2014-2020"
+     }
+    ]
+   },
+   {
+    "nome": "Sprint 50 (2021-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-sprint-50.jpg",
+    "tag": "vespa-sprint-50-2021-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-vespa-sprint-50-2021-2021",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-vespa-sprint-50-2021-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-vespa-sprint-50-2021-2021"
      }
     ]
    }
@@ -41528,83 +42745,167 @@
     ]
    },
    {
-    "nome": "Mt 03",
+    "nome": "Mt 03 (2006-2019)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-yamaha-mt-03.jpg",
-    "tag": "yamaha-mt-03",
+    "tag": "yamaha-mt-03-2006-2019",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-yamaha-mt-03"
+      "handle": "kit-led-biluce-yamaha-mt-03-2006-2019"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-yamaha-mt-03"
+      "handle": "kit-led-posizione-yamaha-mt-03-2006-2019"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-yamaha-mt-03"
+      "handle": "kit-led-frecce-yamaha-mt-03-2006-2019"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-yamaha-mt-03"
+      "handle": "kit-led-targa-yamaha-mt-03-2006-2019"
      }
     ]
    },
    {
-    "nome": "Mt 07",
+    "nome": "Mt 03 (2020-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-yamaha-mt-03.jpg",
+    "tag": "yamaha-mt-03-2020-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-mt-03-2020-2020",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-mt-03-2020-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-mt-03-2020-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-mt-03-2020-2020"
+     }
+    ]
+   },
+   {
+    "nome": "Mt 07 (2014-2020)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-yamaha-mt-07.jpg",
-    "tag": "yamaha-mt-07",
+    "tag": "yamaha-mt-07-2014-2020",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
-      "handle": "kit-led-biluce-yamaha-mt-07"
+      "handle": "kit-led-biluce-yamaha-mt-07-2014-2020"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-yamaha-mt-07"
+      "handle": "kit-led-posizione-yamaha-mt-07-2014-2020"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-yamaha-mt-07"
+      "handle": "kit-led-frecce-yamaha-mt-07-2014-2020"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-yamaha-mt-07"
+      "handle": "kit-led-targa-yamaha-mt-07-2014-2020"
      }
     ]
    },
    {
-    "nome": "Mt 09",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-yamaha-mt-09.jpg",
-    "tag": "yamaha-mt-09",
+    "nome": "Mt 07 (2021-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-yamaha-mt-07.jpg",
+    "tag": "yamaha-mt-07-2021-2021",
     "tipi": [
      {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-yamaha-mt-09"
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-mt-07-2021-2021",
+      "led": true
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-yamaha-mt-09"
+      "handle": "kit-led-posizione-yamaha-mt-07-2021-2021"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-yamaha-mt-09"
+      "handle": "kit-led-frecce-yamaha-mt-07-2021-2021"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-yamaha-mt-09"
+      "handle": "kit-led-targa-yamaha-mt-07-2021-2021"
+     }
+    ]
+   },
+   {
+    "nome": "Mt 09 (2013-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-yamaha-mt-09.jpg",
+    "tag": "yamaha-mt-09-2013-2020",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-mt-09-2013-2020"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-mt-09-2013-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-mt-09-2013-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-mt-09-2013-2020"
+     }
+    ]
+   },
+   {
+    "nome": "Mt 09 (2021-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-yamaha-mt-09.jpg",
+    "tag": "yamaha-mt-09-2021-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-mt-09-2021-2021",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-mt-09-2021-2021"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-mt-09-2021-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-mt-09-2021-2021"
      }
     ]
    },

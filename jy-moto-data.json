@@ -843,23 +843,6 @@
     ]
    },
    {
-    "nome": "Gulliver 50",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-mcgulliver-50.jpg",
-    "tag": "aprilia-mcgulliver-50",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-aprilia-mcgulliver-50"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-aprilia-mcgulliver-50"
-     }
-    ]
-   },
-   {
     "nome": "MX 125",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-mx-125.jpg",
     "tag": "aprilia-mx-125",

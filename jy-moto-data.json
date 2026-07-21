@@ -24821,38 +24821,6 @@
     ]
    },
    {
-    "nome": "Z 300 SL",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-z-300-sl.jpg",
-    "tag": "kawasaki-z-300-sl",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-kawasaki-z-300-sl"
-     },
-     {
-      "nome": "Posizione",
-      "socket": "T10",
-      "handle": "kit-led-posizione-kawasaki-z-300-sl"
-     },
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-z-300-sl"
-     },
-     {
-      "nome": "Stop",
-      "socket": "BAY15D",
-      "handle": "kit-led-stop-kawasaki-z-300-sl"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-z-300-sl"
-     }
-    ]
-   },
-   {
     "nome": "Z 400",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-z-400.jpg",
     "tag": "kawasaki-z-400",
@@ -27045,50 +27013,6 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-ktm-lc4-640"
-     }
-    ]
-   },
-   {
-    "nome": "Lc4 660",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@a57a466d1df7cfa842887de7bf0f44fb715d0320/mb-ktm-lc4-660.jpg",
-    "tag": "ktm-lc4-660",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-ktm-lc4-660"
-     },
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-ktm-lc4-660"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-ktm-lc4-660"
-     }
-    ]
-   },
-   {
-    "nome": "Lc8 900",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@a57a466d1df7cfa842887de7bf0f44fb715d0320/mb-ktm-lc8-900.jpg",
-    "tag": "ktm-lc8-900",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "HS1",
-      "handle": "kit-led-biluce-ktm-lc8-900"
-     },
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-ktm-lc8-900"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-ktm-lc8-900"
      }
     ]
    },
@@ -41532,28 +41456,6 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-triumph-speed-four"
-     }
-    ]
-   },
-   {
-    "nome": "Speed Triple 1000",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-triumph-speed-triple-1000.jpg",
-    "tag": "triumph-speed-triple-1000",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-triumph-speed-triple-1000"
-     },
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-triumph-speed-triple-1000"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-triumph-speed-triple-1000"
      }
     ]
    },

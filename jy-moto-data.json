@@ -546,23 +546,6 @@
     ]
    },
    {
-    "nome": "Etx 600",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-etx-600.jpg",
-    "tag": "aprilia-etx-600",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-aprilia-etx-600"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-aprilia-etx-600"
-     }
-    ]
-   },
-   {
     "nome": "Europa 125",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-europa-125.jpg",
     "tag": "aprilia-europa-125",
@@ -883,28 +866,6 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-aprilia-mx-50"
-     }
-    ]
-   },
-   {
-    "nome": "MXV 250",
-    "img": "https://cdn.shopify.com/s/files/1/1013/7868/7301/files/aprilia-mxv-250.jpg",
-    "tag": "aprilia-mxv-250",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-aprilia-mxv-250"
-     },
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-aprilia-mxv-250"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-aprilia-mxv-250"
      }
     ]
    },
@@ -2901,6 +2862,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-aprilia-tuareg-50.jpg",
     "tag": "aprilia-tuareg-50",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-aprilia-tuareg-50"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -9062,23 +9028,6 @@
       "handle": "kit-led-targa-cagiva-x-tra-raptor-1000"
      }
     ]
-   },
-   {
-    "nome": "Zanella 50",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-cagiva-zanella-50.jpg",
-    "tag": "cagiva-zanella-50",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-cagiva-zanella-50"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-cagiva-zanella-50"
-     }
-    ]
    }
   ]
  },
@@ -9576,23 +9525,6 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-derbi-gpr-50"
-     }
-    ]
-   },
-   {
-    "nome": "Gpx1 50",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-derbi-gpx1-50.jpg",
-    "tag": "derbi-gpx1-50",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-derbi-gpx1-50"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-derbi-gpx1-50"
      }
     ]
    },
@@ -11109,6 +11041,11 @@
     "tag": "ducati-indiana-350",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-ducati-indiana-350"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-ducati-indiana-350"
@@ -11125,6 +11062,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-ducati-indiana-750.jpg",
     "tag": "ducati-indiana-750",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-ducati-indiana-750"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -13590,23 +13532,6 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-gilera-nrg-250"
-     }
-    ]
-   },
-   {
-    "nome": "Oregon 250",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@a57a466d1df7cfa842887de7bf0f44fb715d0320/mb-gilera-oregon-250.jpg",
-    "tag": "gilera-oregon-250",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-gilera-oregon-250"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-gilera-oregon-250"
      }
     ]
    },
@@ -16517,40 +16442,6 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-honda-moto-crf-450-xr"
-     }
-    ]
-   },
-   {
-    "nome": "CRF 500",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-crf-500.jpg",
-    "tag": "honda-moto-crf-500",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-crf-500"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-crf-500"
-     }
-    ]
-   },
-   {
-    "nome": "CRF 500 R",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-crf-500-r.jpg",
-    "tag": "honda-moto-crf-500-r",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-honda-moto-crf-500-r"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-honda-moto-crf-500-r"
      }
     ]
    },
@@ -23297,72 +23188,6 @@
     ]
    },
    {
-    "nome": "Kxe 125",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-kxe-125.jpg",
-    "tag": "kawasaki-kxe-125",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-kxe-125"
-     },
-     {
-      "nome": "Stop",
-      "socket": "BAY15D",
-      "handle": "kit-led-stop-kawasaki-kxe-125"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-kxe-125"
-     }
-    ]
-   },
-   {
-    "nome": "Kxe 250",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-kxe-250.jpg",
-    "tag": "kawasaki-kxe-250",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-kxe-250"
-     },
-     {
-      "nome": "Stop",
-      "socket": "BAY15D",
-      "handle": "kit-led-stop-kawasaki-kxe-250"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-kxe-250"
-     }
-    ]
-   },
-   {
-    "nome": "Kxe 450",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-kxe-450.jpg",
-    "tag": "kawasaki-kxe-450",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-kxe-450"
-     },
-     {
-      "nome": "Stop",
-      "socket": "BAY15D",
-      "handle": "kit-led-stop-kawasaki-kxe-450"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-kxe-450"
-     }
-    ]
-   },
-   {
     "nome": "KZ 400",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4bb5a164310fbd04fe4fc48de8342964145972a4/mb-kawasaki-kz-400.jpg",
     "tag": "kawasaki-kz-400",
@@ -24607,23 +24432,6 @@
     ]
    },
    {
-    "nome": "Z 100 H2",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4bb5a164310fbd04fe4fc48de8342964145972a4/mb-kawasaki-z-100-h2.jpg",
-    "tag": "kawasaki-z-100-h2",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-z-100-h2"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-z-100-h2"
-     }
-    ]
-   },
-   {
     "nome": "Z 1000 (1977-1983)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4bb5a164310fbd04fe4fc48de8342964145972a4/mb-kawasaki-z-1000.jpg",
     "tag": "kawasaki-z-1000-1977-1983",
@@ -25770,19 +25578,47 @@
     ]
    },
    {
-    "nome": "125 Duke",
+    "nome": "125 Duke (2011-2016)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@a57a466d1df7cfa842887de7bf0f44fb715d0320/mb-ktm-125-duke.jpg",
-    "tag": "ktm-125-duke",
+    "tag": "ktm-125-duke-2011-2016",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-ktm-125-duke-2011-2016"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-ktm-125-duke"
+      "handle": "kit-led-frecce-ktm-125-duke-2011-2016"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-ktm-125-duke"
+      "handle": "kit-led-targa-ktm-125-duke-2011-2016"
+     }
+    ]
+   },
+   {
+    "nome": "125 Duke (dal 2017)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@a57a466d1df7cfa842887de7bf0f44fb715d0320/mb-ktm-125-duke.jpg",
+    "tag": "ktm-125-duke-dal-2017",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "led": true,
+      "handle": "kit-led-fari-led-ktm-125-duke-dal-2017"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-ktm-125-duke-dal-2017"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-ktm-125-duke-dal-2017"
      }
     ]
    },
@@ -27253,23 +27089,6 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-ktm-rc-390"
-     }
-    ]
-   },
-   {
-    "nome": "RV 125",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@a57a466d1df7cfa842887de7bf0f44fb715d0320/mb-ktm-rv-125.jpg",
-    "tag": "ktm-rv-125",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-ktm-rv-125"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-ktm-rv-125"
      }
     ]
    },
@@ -32282,23 +32101,6 @@
     ]
    },
    {
-    "nome": "S 1000 RR",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-moto-guzzi-s-1000-rr.jpg",
-    "tag": "moto-guzzi-s-1000-rr",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-moto-guzzi-s-1000-rr"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-moto-guzzi-s-1000-rr"
-     }
-    ]
-   },
-   {
     "nome": "V65 GT",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-moto-guzzi-sessantacinque-650-gt.jpg",
     "tag": "moto-guzzi-sessantacinque-650-gt",
@@ -33451,6 +33253,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4bb5a164310fbd04fe4fc48de8342964145972a4/mb-mv-agusta-rsv-1-800.jpg",
     "tag": "mv-agusta-rsv-1-800",
     "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "led": true
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -38479,28 +38286,6 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-suzuki-moto-sixteen-150"
-     }
-    ]
-   },
-   {
-    "nome": "SM 450 X",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@09db19faca49ae425759fb6866654205d87a2977/mb-suzuki-moto-sm-450-x.jpg",
-    "tag": "suzuki-moto-sm-450-x",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-suzuki-moto-sm-450-x"
-     },
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-suzuki-moto-sm-450-x"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-suzuki-moto-sm-450-x"
      }
     ]
    },

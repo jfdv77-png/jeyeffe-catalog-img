@@ -349,7 +349,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "BA20D",
       "handle": "kit-led-biluce-aprilia-classic-125"
      },
      {
@@ -635,7 +635,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "HS1",
       "handle": "kit-led-biluce-aprilia-habana-125"
      },
      {
@@ -871,7 +871,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "BA20D",
       "handle": "kit-led-biluce-aprilia-mx-50"
      },
      {
@@ -932,7 +932,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "BA20D",
+      "socket": "H4",
       "handle": "kit-led-biluce-aprilia-pegaso-125"
      },
      {
@@ -986,7 +986,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "BA20D",
+      "socket": "H4",
       "handle": "kit-led-biluce-aprilia-pegaso-50"
      },
      {
@@ -1238,7 +1238,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "S2",
+      "socket": "H4",
       "handle": "kit-led-biluce-aprilia-replica-125"
      },
      {
@@ -4352,6 +4352,11 @@
     "tag": "benelli-benelli-naked-100",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-benelli-benelli-naked-100"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-benelli-benelli-naked-100"
@@ -4368,6 +4373,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-benelli-benelli-naked-50.jpg",
     "tag": "benelli-benelli-naked-50",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-benelli-benelli-naked-50"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -4478,6 +4488,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-benelli-benelli-s50.jpg",
     "tag": "benelli-benelli-s50",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-benelli-benelli-s50"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -4593,6 +4608,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-benelli-benelli-tornado-650.jpg",
     "tag": "benelli-benelli-tornado-650",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-benelli-benelli-tornado-650"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -8095,6 +8115,11 @@
     "tag": "cagiva-freccia-125",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "R2",
+      "handle": "kit-led-biluce-cagiva-freccia-125"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-cagiva-freccia-125"
@@ -8112,6 +8137,11 @@
     "tag": "cagiva-freccia-c10",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "R2",
+      "handle": "kit-led-biluce-cagiva-freccia-c10"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-cagiva-freccia-c10"
@@ -8128,6 +8158,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-cagiva-freccia-c9.jpg",
     "tag": "cagiva-freccia-c9",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "R2",
+      "handle": "kit-led-biluce-cagiva-freccia-c9"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -11885,6 +11920,11 @@
     "tag": "ducati-panigale-v4",
     "tipi": [
      {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "led": true
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-ducati-panigale-v4"
@@ -13033,6 +13073,11 @@
     "tag": "gilera-er-350",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-gilera-er-350"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-gilera-er-350"
@@ -13049,6 +13094,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@a57a466d1df7cfa842887de7bf0f44fb715d0320/mb-gilera-er-500.jpg",
     "tag": "gilera-er-500",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-gilera-er-500"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -13487,6 +13537,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@a57a466d1df7cfa842887de7bf0f44fb715d0320/mb-gilera-nordwest-350.jpg",
     "tag": "gilera-nordwest-350",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-gilera-nordwest-350"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -15963,6 +16018,11 @@
     "tag": "honda-moto-cm-400",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "Sealed beam",
+      "handle": "kit-led-biluce-honda-moto-cm-400"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-honda-moto-cm-400"
@@ -16294,6 +16354,11 @@
     "tag": "honda-moto-crf-300-x",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H6M",
+      "handle": "kit-led-biluce-honda-moto-crf-300-x"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-honda-moto-crf-300-x"
@@ -16394,6 +16459,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-crf-450-rx.jpg",
     "tag": "honda-moto-crf-450-rx",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H6M",
+      "handle": "kit-led-biluce-honda-moto-crf-450-rx"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -18321,6 +18391,11 @@
     "tag": "honda-moto-px-50",
     "tipi": [
      {
+      "nome": "Anabbaglianti",
+      "socket": "P26S",
+      "handle": "kit-led-anabbaglianti-honda-moto-px-50"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-honda-moto-px-50"
@@ -19134,6 +19209,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-honda-moto-sxr-50.jpg",
     "tag": "honda-moto-sxr-50",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-honda-moto-sxr-50"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -20044,6 +20124,11 @@
     "tag": "honda-moto-xl-200",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-honda-moto-xl-200"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-honda-moto-xl-200"
@@ -20104,6 +20189,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4bb5a164310fbd04fe4fc48de8342964145972a4/mb-honda-moto-xl-400.jpg",
     "tag": "honda-moto-xl-400",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-honda-moto-xl-400"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -22643,6 +22733,11 @@
     "tag": "kawasaki-h1e-500",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "Sealed beam",
+      "handle": "kit-led-biluce-kawasaki-h1e-500"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-kawasaki-h1e-500"
@@ -23274,7 +23369,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "Sealed beam",
       "handle": "kit-led-biluce-kawasaki-kz-400"
      },
      {
@@ -26839,6 +26934,11 @@
     "tag": "ktm-isde-125",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-ktm-isde-125"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-ktm-isde-125"
@@ -26856,6 +26956,11 @@
     "tag": "ktm-isde-250",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-ktm-isde-250"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-ktm-isde-250"
@@ -26872,6 +26977,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@a57a466d1df7cfa842887de7bf0f44fb715d0320/mb-ktm-isde-300.jpg",
     "tag": "ktm-isde-300",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-ktm-isde-300"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -32053,7 +32163,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "R2",
       "handle": "kit-led-biluce-moto-guzzi-ntx-350"
      },
      {
@@ -32075,7 +32185,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "R2",
       "handle": "kit-led-biluce-moto-guzzi-ntx-650"
      },
      {
@@ -32195,7 +32305,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "R2",
       "handle": "kit-led-biluce-moto-guzzi-sessantacinque-650-gt"
      },
      {
@@ -40340,6 +40450,11 @@
     "tag": "sym-shark-125",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-sym-shark-125"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-sym-shark-125"
@@ -40973,7 +41088,7 @@
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "BPF",
       "handle": "kit-led-biluce-triumph-boneville-t-140"
      },
      {
@@ -41972,6 +42087,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-triumph-tiger-1200.jpg",
     "tag": "triumph-tiger-1200",
     "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "led": true
+     },
      {
       "nome": "Frecce",
       "socket": "T20",

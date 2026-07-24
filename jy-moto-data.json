@@ -3314,23 +3314,6 @@
     ]
    },
    {
-    "nome": "2Ue 756",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-benelli-benelli-2ue-756.jpg",
-    "tag": "benelli-benelli-2ue-756",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-benelli-benelli-2ue-756"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-benelli-benelli-2ue-756"
-     }
-    ]
-   },
-   {
     "nome": "304",
     "img": "https://cdn.shopify.com/s/files/1/1013/7868/7301/files/benelli-benelli-304.jpg",
     "tag": "benelli-benelli-304",
@@ -3526,7 +3509,7 @@
     ]
    },
    {
-    "nome": "900",
+    "nome": "Tornado Tre 900",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-benelli-benelli-900.jpg",
     "tag": "benelli-benelli-900",
     "tipi": [
@@ -3727,6 +3710,11 @@
     "tag": "benelli-benelli-bx-125",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-benelli-benelli-bx-125"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-benelli-benelli-bx-125"
@@ -3760,6 +3748,11 @@
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@cad364fb7cfb3fca26cfc6bff6e7b691030f44d1/mb-benelli-benelli-bx-505-enduro.jpg",
     "tag": "benelli-benelli-bx-505-enduro",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-benelli-benelli-bx-505-enduro"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -12805,10 +12798,15 @@
     ]
    },
    {
-    "nome": "Cougar 125",
+    "nome": "Coguar 125",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4bb5a164310fbd04fe4fc48de8342964145972a4/mb-gilera-cougar-125.jpg",
     "tag": "gilera-cougar-125",
     "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-gilera-cougar-125"
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -20920,38 +20918,6 @@
     ]
    },
    {
-    "nome": "SM 511",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-husqvarna-sm-511.jpg",
-    "tag": "husqvarna-sm-511",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "BA20D",
-      "handle": "kit-led-biluce-husqvarna-sm-511"
-     },
-     {
-      "nome": "Posizione",
-      "socket": "T10",
-      "handle": "kit-led-posizione-husqvarna-sm-511"
-     },
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-husqvarna-sm-511"
-     },
-     {
-      "nome": "Stop",
-      "socket": "BAY15D",
-      "handle": "kit-led-stop-husqvarna-sm-511"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-husqvarna-sm-511"
-     }
-    ]
-   },
-   {
     "nome": "SM 570",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4bb5a164310fbd04fe4fc48de8342964145972a4/mb-husqvarna-sm-570.jpg",
     "tag": "husqvarna-sm-570",
@@ -22641,23 +22607,6 @@
     ]
    },
    {
-    "nome": "HZ 400",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4bb5a164310fbd04fe4fc48de8342964145972a4/mb-kawasaki-hz-400.jpg",
-    "tag": "kawasaki-hz-400",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-hz-400"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-hz-400"
-     }
-    ]
-   },
-   {
     "nome": "J 125",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-j-125.jpg",
     "tag": "kawasaki-j-125",
@@ -22860,28 +22809,6 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-kawasaki-kl-sm-250"
-     }
-    ]
-   },
-   {
-    "nome": "KL SMX 450 R",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@d85a37ac4acc95766a3cd2800bce41ba110c8431/mb-kawasaki-kl-smx-450-r.jpg",
-    "tag": "kawasaki-kl-smx-450-r",
-    "tipi": [
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-kawasaki-kl-smx-450-r"
-     },
-     {
-      "nome": "Stop",
-      "socket": "BAY15D",
-      "handle": "kit-led-stop-kawasaki-kl-smx-450-r"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-kawasaki-kl-smx-450-r"
      }
     ]
    },
@@ -34657,6 +34584,11 @@
     "tag": "peugeot-moto-speedfight-100",
     "tipi": [
      {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-peugeot-moto-speedfight-100"
+     },
+     {
       "nome": "Frecce",
       "socket": "T20",
       "handle": "kit-led-frecce-peugeot-moto-speedfight-100"
@@ -34669,10 +34601,15 @@
     ]
    },
    {
-    "nome": "Speedfight 125",
+    "nome": "Speedfight 4 125",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@a57a466d1df7cfa842887de7bf0f44fb715d0320/mb-peugeot-moto-speedfight-125.jpg",
     "tag": "peugeot-moto-speedfight-125",
     "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "led": true
+     },
      {
       "nome": "Frecce",
       "socket": "T20",
@@ -42263,7 +42200,7 @@
     ]
    },
    {
-    "nome": "125 PX",
+    "nome": "PX 125 (1977-1997)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-125-px.jpg",
     "tag": "vespa-125-px",
     "tipi": [
@@ -42371,7 +42308,7 @@
     ]
    },
    {
-    "nome": "150 PX",
+    "nome": "PX 150 (1977-1997)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-150-px.jpg",
     "tag": "vespa-150-px",
     "tipi": [
@@ -43015,13 +42952,13 @@
     ]
    },
    {
-    "nome": "PX 125",
+    "nome": "PX 125 (dal 1998)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-px-125.jpg",
     "tag": "vespa-px-125",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "HS1",
       "handle": "kit-led-biluce-vespa-px-125"
      },
      {
@@ -43042,13 +42979,13 @@
     ]
    },
    {
-    "nome": "PX 150",
+    "nome": "PX 150 (dal 1998)",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-vespa-px-150.jpg",
     "tag": "vespa-px-150",
     "tipi": [
      {
       "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
+      "socket": "HS1",
       "handle": "kit-led-biluce-vespa-px-150"
      },
      {

@@ -35432,152 +35432,2745 @@
   "logo": "https://cdn.shopify.com/s/files/1/1013/7868/7301/files/logo-piaggio.jpg?width=160",
   "modelli": [
    {
-    "nome": "Porter I",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4c8e8a2f9b434bce5942894ccee0344541af01a7/mb-piaggio-porter-i.jpg",
-    "tag": "piaggio-porter-i",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-piaggio-porter-i"
-     },
-     {
-      "nome": "Posizione",
-      "socket": "T10",
-      "handle": "kit-led-posizione-piaggio-porter-i"
-     },
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-piaggio-porter-i"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-piaggio-porter-i"
-     },
-     {
-      "nome": "Retromarcia",
-      "socket": "P21W",
-      "handle": "kit-led-retromarcia-piaggio-porter-i"
-     }
-    ]
-   },
-   {
-    "nome": "Porter Ii",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4c8e8a2f9b434bce5942894ccee0344541af01a7/mb-piaggio-porter-ii.jpg",
-    "tag": "piaggio-porter-ii",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-piaggio-porter-ii"
-     },
-     {
-      "nome": "Posizione",
-      "socket": "T10",
-      "handle": "kit-led-posizione-piaggio-porter-ii"
-     },
-     {
-      "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-piaggio-porter-ii"
-     },
-     {
-      "nome": "Targa",
-      "socket": "T10",
-      "handle": "kit-led-targa-piaggio-porter-ii"
-     },
-     {
-      "nome": "Retromarcia",
-      "socket": "P21W",
-      "handle": "kit-led-retromarcia-piaggio-porter-ii"
-     }
-    ]
-   },
-   {
-    "nome": "Porter Iii",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4c8e8a2f9b434bce5942894ccee0344541af01a7/mb-piaggio-porter-iii.jpg",
-    "tag": "piaggio-porter-iii",
+    "nome": "Beverly 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-beverly-125.jpg",
+    "tag": "piaggio-beverly-125",
     "tipi": [
      {
       "nome": "Anabbaglianti",
       "socket": "H7",
-      "handle": "kit-led-anabbaglianti-piaggio-porter-iii"
+      "handle": "kit-led-anabbaglianti-piaggio-beverly-125"
      },
      {
       "nome": "Abbaglianti",
-      "socket": "H1",
-      "handle": "kit-led-abbaglianti-piaggio-porter-iii"
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-beverly-125"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-piaggio-porter-iii"
+      "handle": "kit-led-posizione-piaggio-beverly-125"
      },
      {
       "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-piaggio-porter-iii"
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-beverly-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-beverly-125"
      },
      {
       "nome": "Targa",
       "socket": "T10",
-      "handle": "kit-led-targa-piaggio-porter-iii"
-     },
-     {
-      "nome": "Retromarcia",
-      "socket": "P21W",
-      "handle": "kit-led-retromarcia-piaggio-porter-iii"
+      "handle": "kit-led-targa-piaggio-beverly-125"
      }
     ]
    },
    {
-    "nome": "Porter Np6",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4c8e8a2f9b434bce5942894ccee0344541af01a7/mb-piaggio-porter-np6.jpg",
-    "tag": "piaggio-porter-np6",
+    "nome": "Beverly 200",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-beverly-200.jpg",
+    "tag": "piaggio-beverly-200",
     "tipi": [
      {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-piaggio-porter-np6"
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-beverly-200"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-beverly-200"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-piaggio-porter-np6"
+      "handle": "kit-led-posizione-piaggio-beverly-200"
      },
      {
       "nome": "Frecce",
-      "socket": "T20",
-      "handle": "kit-led-frecce-piaggio-porter-np6"
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-beverly-200"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-beverly-200"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-beverly-200"
      }
     ]
    },
    {
-    "nome": "Quargo",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4c8e8a2f9b434bce5942894ccee0344541af01a7/mb-piaggio-quargo.jpg",
-    "tag": "piaggio-quargo",
+    "nome": "Beverly 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-beverly-250.jpg",
+    "tag": "piaggio-beverly-250",
     "tipi": [
      {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-piaggio-quargo"
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-beverly-250"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-beverly-250"
      },
      {
       "nome": "Posizione",
       "socket": "T10",
-      "handle": "kit-led-posizione-piaggio-quargo"
+      "handle": "kit-led-posizione-piaggio-beverly-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-beverly-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-beverly-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-beverly-250"
+     }
+    ]
+   },
+   {
+    "nome": "Beverly 300 (2010-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-beverly-300-2010.jpg",
+    "tag": "piaggio-beverly-300-2010",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-beverly-300-2010"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-beverly-300-2010"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-beverly-300-2010"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-beverly-300-2010"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-beverly-300-2010"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-beverly-300-2010"
+     }
+    ]
+   },
+   {
+    "nome": "Beverly 300 (2021-2025)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-beverly-300-2021.jpg",
+    "tag": "piaggio-beverly-300-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-piaggio-beverly-300-2021",
+      "led": true
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-beverly-300-2021"
+     }
+    ]
+   },
+   {
+    "nome": "Beverly 310",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-beverly-310.jpg",
+    "tag": "piaggio-beverly-310",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-piaggio-beverly-310",
+      "led": true
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-beverly-310"
+     }
+    ]
+   },
+   {
+    "nome": "Beverly 350",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-beverly-350.jpg",
+    "tag": "piaggio-beverly-350",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-beverly-350"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-beverly-350"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-beverly-350"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-beverly-350"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-beverly-350"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-beverly-350"
+     }
+    ]
+   },
+   {
+    "nome": "Beverly 400 (2006-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-beverly-400-2006.jpg",
+    "tag": "piaggio-beverly-400-2006",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-beverly-400-2006"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-beverly-400-2006"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-beverly-400-2006"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-beverly-400-2006"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-beverly-400-2006"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-beverly-400-2006"
+     }
+    ]
+   },
+   {
+    "nome": "Beverly 400 (2021-2026)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-beverly-400-2021.jpg",
+    "tag": "piaggio-beverly-400-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-piaggio-beverly-400-2021",
+      "led": true
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-beverly-400-2021"
+     }
+    ]
+   },
+   {
+    "nome": "Beverly 500",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-beverly-500.jpg",
+    "tag": "piaggio-beverly-500",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-beverly-500"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-beverly-500"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-beverly-500"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-beverly-500"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-beverly-500"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-beverly-500"
+     }
+    ]
+   },
+   {
+    "nome": "Carnaby 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-carnaby-125.jpg",
+    "tag": "piaggio-carnaby-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-carnaby-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-carnaby-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-carnaby-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-carnaby-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-carnaby-125"
+     }
+    ]
+   },
+   {
+    "nome": "Carnaby 200",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-carnaby-200.jpg",
+    "tag": "piaggio-carnaby-200",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-carnaby-200"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-carnaby-200"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-carnaby-200"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-carnaby-200"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-carnaby-200"
+     }
+    ]
+   },
+   {
+    "nome": "Carnaby 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-carnaby-250.jpg",
+    "tag": "piaggio-carnaby-250",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H11",
+      "handle": "kit-led-biluce-piaggio-carnaby-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-carnaby-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-carnaby-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-carnaby-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-carnaby-250"
+     }
+    ]
+   },
+   {
+    "nome": "Carnaby 300",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-carnaby-300.jpg",
+    "tag": "piaggio-carnaby-300",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-carnaby-300"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-carnaby-300"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-carnaby-300"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-carnaby-300"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-carnaby-300"
+     }
+    ]
+   },
+   {
+    "nome": "Diesis 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-diesis-50.jpg",
+    "tag": "piaggio-diesis-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-piaggio-diesis-50"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-diesis-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-diesis-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-diesis-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-diesis-50"
+     }
+    ]
+   },
+   {
+    "nome": "Diesis 100",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-diesis-100.jpg",
+    "tag": "piaggio-diesis-100",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-piaggio-diesis-100"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-diesis-100"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-diesis-100"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-diesis-100"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-diesis-100"
+     }
+    ]
+   },
+   {
+    "nome": "Fly 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-fly-50.jpg",
+    "tag": "piaggio-fly-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-piaggio-fly-50"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-fly-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-fly-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-fly-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-fly-50"
+     }
+    ]
+   },
+   {
+    "nome": "Fly 100",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-fly-100.jpg",
+    "tag": "piaggio-fly-100",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-piaggio-fly-100"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-fly-100"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-fly-100"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-fly-100"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-fly-100"
+     }
+    ]
+   },
+   {
+    "nome": "Fly 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-fly-125.jpg",
+    "tag": "piaggio-fly-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-piaggio-fly-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-fly-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-fly-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-fly-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-fly-125"
+     }
+    ]
+   },
+   {
+    "nome": "Fly 150",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-fly-150.jpg",
+    "tag": "piaggio-fly-150",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-piaggio-fly-150"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-fly-150"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-fly-150"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-fly-150"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-fly-150"
+     }
+    ]
+   },
+   {
+    "nome": "Free 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-free-50.jpg",
+    "tag": "piaggio-free-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-piaggio-free-50"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-free-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-free-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-free-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-free-50"
+     }
+    ]
+   },
+   {
+    "nome": "Hexagon 125 (1995-1998)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-hexagon-125-1995.jpg",
+    "tag": "piaggio-hexagon-125-1995",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-hexagon-125-1995"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-hexagon-125-1995"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-hexagon-125-1995"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-hexagon-125-1995"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-hexagon-125-1995"
+     }
+    ]
+   },
+   {
+    "nome": "Hexagon 125 (1998-2003)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-hexagon-125-1998.jpg",
+    "tag": "piaggio-hexagon-125-1998",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-hexagon-125-1998"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H3",
+      "handle": "kit-led-abbaglianti-piaggio-hexagon-125-1998"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-hexagon-125-1998"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-hexagon-125-1998"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-hexagon-125-1998"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-hexagon-125-1998"
+     }
+    ]
+   },
+   {
+    "nome": "Hexagon 150",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-hexagon-150.jpg",
+    "tag": "piaggio-hexagon-150",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-hexagon-150"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-hexagon-150"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-hexagon-150"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-hexagon-150"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-hexagon-150"
+     }
+    ]
+   },
+   {
+    "nome": "Hexagon 180",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-hexagon-180.jpg",
+    "tag": "piaggio-hexagon-180",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-hexagon-180"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H3",
+      "handle": "kit-led-abbaglianti-piaggio-hexagon-180"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-hexagon-180"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-hexagon-180"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-hexagon-180"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-hexagon-180"
+     }
+    ]
+   },
+   {
+    "nome": "Hexagon 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-hexagon-250.jpg",
+    "tag": "piaggio-hexagon-250",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-hexagon-250"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H3",
+      "handle": "kit-led-abbaglianti-piaggio-hexagon-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-hexagon-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-hexagon-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-hexagon-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-hexagon-250"
+     }
+    ]
+   },
+   {
+    "nome": "Liberty 50 (1997-2003)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-liberty-50-1997.jpg",
+    "tag": "piaggio-liberty-50-1997",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-piaggio-liberty-50-1997"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-liberty-50-1997"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-liberty-50-1997"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-liberty-50-1997"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-liberty-50-1997"
+     }
+    ]
+   },
+   {
+    "nome": "Liberty 50 (2004-2026)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-liberty-50-2004.jpg",
+    "tag": "piaggio-liberty-50-2004",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-liberty-50-2004"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-liberty-50-2004"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-liberty-50-2004"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-liberty-50-2004"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-liberty-50-2004"
+     }
+    ]
+   },
+   {
+    "nome": "Liberty 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-liberty-125.jpg",
+    "tag": "piaggio-liberty-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-liberty-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-liberty-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-liberty-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-liberty-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-liberty-125"
+     }
+    ]
+   },
+   {
+    "nome": "Liberty 150",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-liberty-150.jpg",
+    "tag": "piaggio-liberty-150",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-liberty-150"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-liberty-150"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-liberty-150"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-liberty-150"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-liberty-150"
+     }
+    ]
+   },
+   {
+    "nome": "Liberty 200",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-liberty-200.jpg",
+    "tag": "piaggio-liberty-200",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-liberty-200"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-liberty-200"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-liberty-200"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-liberty-200"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-liberty-200"
+     }
+    ]
+   },
+   {
+    "nome": "Medley 125 (2016-2019)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-medley-125-2016.jpg",
+    "tag": "piaggio-medley-125-2016",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-medley-125-2016"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-medley-125-2016"
      },
      {
       "nome": "Frecce",
       "socket": "T20",
-      "handle": "kit-led-frecce-piaggio-quargo"
+      "handle": "kit-led-frecce-piaggio-medley-125-2016"
      },
      {
-      "nome": "Retromarcia",
-      "socket": "P21W",
-      "handle": "kit-led-retromarcia-piaggio-quargo"
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-medley-125-2016"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-medley-125-2016"
+     }
+    ]
+   },
+   {
+    "nome": "Medley 125 (2020-2026)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-medley-125-2020.jpg",
+    "tag": "piaggio-medley-125-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-piaggio-medley-125-2020",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-medley-125-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-medley-125-2020"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-medley-125-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-medley-125-2020"
+     }
+    ]
+   },
+   {
+    "nome": "Medley 150",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-medley-150.jpg",
+    "tag": "piaggio-medley-150",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-medley-150"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-medley-150"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-medley-150"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-medley-150"
+     }
+    ]
+   },
+   {
+    "nome": "Medley 200",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-medley-200.jpg",
+    "tag": "piaggio-medley-200",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-medley-200"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-medley-200"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-medley-200"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-medley-200"
+     }
+    ]
+   },
+   {
+    "nome": "MP3 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-mp3-125.jpg",
+    "tag": "piaggio-mp3-125",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-mp3-125"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-mp3-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-mp3-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-mp3-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-mp3-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-mp3-125"
+     }
+    ]
+   },
+   {
+    "nome": "MP3 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-mp3-250.jpg",
+    "tag": "piaggio-mp3-250",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-mp3-250"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-mp3-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-mp3-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-mp3-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-mp3-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-mp3-250"
+     }
+    ]
+   },
+   {
+    "nome": "MP3 300 (2010-2018)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-mp3-300-2010.jpg",
+    "tag": "piaggio-mp3-300-2010",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-mp3-300-2010"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-mp3-300-2010"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-mp3-300-2010"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-mp3-300-2010"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-mp3-300-2010"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-mp3-300-2010"
+     }
+    ]
+   },
+   {
+    "nome": "MP3 300 (2019-2024)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-mp3-300-2019.jpg",
+    "tag": "piaggio-mp3-300-2019",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-piaggio-mp3-300-2019",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-mp3-300-2019"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-mp3-300-2019"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-mp3-300-2019"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-mp3-300-2019"
+     }
+    ]
+   },
+   {
+    "nome": "MP3 310",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-mp3-310.jpg",
+    "tag": "piaggio-mp3-310",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-piaggio-mp3-310",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-mp3-310"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-mp3-310"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-mp3-310"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-mp3-310"
+     }
+    ]
+   },
+   {
+    "nome": "MP3 350",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-mp3-350.jpg",
+    "tag": "piaggio-mp3-350",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-piaggio-mp3-350",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-mp3-350"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-mp3-350"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-mp3-350"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-mp3-350"
+     }
+    ]
+   },
+   {
+    "nome": "MP3 400 (2007-2013)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-mp3-400-2007.jpg",
+    "tag": "piaggio-mp3-400-2007",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-mp3-400-2007"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-mp3-400-2007"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-mp3-400-2007"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-mp3-400-2007"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-mp3-400-2007"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-mp3-400-2007"
+     }
+    ]
+   },
+   {
+    "nome": "MP3 400 (2021-2026)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-mp3-400-2021.jpg",
+    "tag": "piaggio-mp3-400-2021",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-piaggio-mp3-400-2021",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-mp3-400-2021"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-mp3-400-2021"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-mp3-400-2021"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-mp3-400-2021"
+     }
+    ]
+   },
+   {
+    "nome": "MP3 500 (2011-2017)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-mp3-500-2011.jpg",
+    "tag": "piaggio-mp3-500-2011",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-mp3-500-2011"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-mp3-500-2011"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-mp3-500-2011"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-mp3-500-2011"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-mp3-500-2011"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-mp3-500-2011"
+     }
+    ]
+   },
+   {
+    "nome": "MP3 500 (2018-2022)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-mp3-500-2018.jpg",
+    "tag": "piaggio-mp3-500-2018",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-piaggio-mp3-500-2018",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-mp3-500-2018"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-mp3-500-2018"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-mp3-500-2018"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-mp3-500-2018"
+     }
+    ]
+   },
+   {
+    "nome": "MP3 530",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-mp3-530.jpg",
+    "tag": "piaggio-mp3-530",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-piaggio-mp3-530",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-mp3-530"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-piaggio-mp3-530"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-mp3-530"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-mp3-530"
+     }
+    ]
+   },
+   {
+    "nome": "NRG mc2 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-nrg-mc2-50.jpg",
+    "tag": "piaggio-nrg-mc2-50",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-anabbaglianti-piaggio-nrg-mc2-50"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-abbaglianti-piaggio-nrg-mc2-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-nrg-mc2-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-nrg-mc2-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-nrg-mc2-50"
+     }
+    ]
+   },
+   {
+    "nome": "NRG mc3 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-nrg-mc3-50.jpg",
+    "tag": "piaggio-nrg-mc3-50",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-anabbaglianti-piaggio-nrg-mc3-50"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-abbaglianti-piaggio-nrg-mc3-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-nrg-mc3-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-nrg-mc3-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-nrg-mc3-50"
+     }
+    ]
+   },
+   {
+    "nome": "Quartz 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-quartz-50.jpg",
+    "tag": "piaggio-quartz-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-piaggio-quartz-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-quartz-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-quartz-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-quartz-50"
+     }
+    ]
+   },
+   {
+    "nome": "Sfera 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-sfera-50.jpg",
+    "tag": "piaggio-sfera-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-piaggio-sfera-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-sfera-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-sfera-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-sfera-50"
+     }
+    ]
+   },
+   {
+    "nome": "Sfera 80",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-sfera-80.jpg",
+    "tag": "piaggio-sfera-80",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-piaggio-sfera-80"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-sfera-80"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-sfera-80"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-sfera-80"
+     }
+    ]
+   },
+   {
+    "nome": "Sfera 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-sfera-125.jpg",
+    "tag": "piaggio-sfera-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-piaggio-sfera-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-sfera-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-sfera-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-sfera-125"
+     }
+    ]
+   },
+   {
+    "nome": "Sfera 150",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-sfera-150.jpg",
+    "tag": "piaggio-sfera-150",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-piaggio-sfera-150"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-sfera-150"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-sfera-150"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-sfera-150"
+     }
+    ]
+   },
+   {
+    "nome": "Skipper 125 (1993-1999)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-skipper-125-1993.jpg",
+    "tag": "piaggio-skipper-125-1993",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "HS1",
+      "handle": "kit-led-biluce-piaggio-skipper-125-1993"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-skipper-125-1993"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-skipper-125-1993"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-skipper-125-1993"
+     }
+    ]
+   },
+   {
+    "nome": "Skipper 125 (2000-2004)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-skipper-125-2000.jpg",
+    "tag": "piaggio-skipper-125-2000",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-skipper-125-2000"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-skipper-125-2000"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-skipper-125-2000"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-skipper-125-2000"
+     }
+    ]
+   },
+   {
+    "nome": "Skipper 150",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-skipper-150.jpg",
+    "tag": "piaggio-skipper-150",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "HS1",
+      "handle": "kit-led-biluce-piaggio-skipper-150"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-skipper-150"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-skipper-150"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-skipper-150"
+     }
+    ]
+   },
+   {
+    "nome": "Storm 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-storm-50.jpg",
+    "tag": "piaggio-storm-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-piaggio-storm-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-storm-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-storm-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-storm-50"
+     }
+    ]
+   },
+   {
+    "nome": "Super Hexagon GTX 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-super-hexagon-125.jpg",
+    "tag": "piaggio-super-hexagon-125",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-super-hexagon-125"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H3",
+      "handle": "kit-led-abbaglianti-piaggio-super-hexagon-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-super-hexagon-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-super-hexagon-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-super-hexagon-125"
+     }
+    ]
+   },
+   {
+    "nome": "Super Hexagon GTX 180",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-super-hexagon-180.jpg",
+    "tag": "piaggio-super-hexagon-180",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-super-hexagon-180"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H3",
+      "handle": "kit-led-abbaglianti-piaggio-super-hexagon-180"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-super-hexagon-180"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-super-hexagon-180"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-super-hexagon-180"
+     }
+    ]
+   },
+   {
+    "nome": "Super Hexagon GTX 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-super-hexagon-250.jpg",
+    "tag": "piaggio-super-hexagon-250",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-super-hexagon-250"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H3",
+      "handle": "kit-led-abbaglianti-piaggio-super-hexagon-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-super-hexagon-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-super-hexagon-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-super-hexagon-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-super-hexagon-250"
+     }
+    ]
+   },
+   {
+    "nome": "Typhoon 50 (1993-2010)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-typhoon-50-1993.jpg",
+    "tag": "piaggio-typhoon-50-1993",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-anabbaglianti-piaggio-typhoon-50-1993"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-abbaglianti-piaggio-typhoon-50-1993"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-typhoon-50-1993"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-typhoon-50-1993"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-typhoon-50-1993"
+     }
+    ]
+   },
+   {
+    "nome": "Typhoon 50 (2011-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-typhoon-50-2011.jpg",
+    "tag": "piaggio-typhoon-50-2011",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-typhoon-50-2011"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-typhoon-50-2011"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-typhoon-50-2011"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-typhoon-50-2011"
+     }
+    ]
+   },
+   {
+    "nome": "Typhoon 80",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-typhoon-80.jpg",
+    "tag": "piaggio-typhoon-80",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-anabbaglianti-piaggio-typhoon-80"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-abbaglianti-piaggio-typhoon-80"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-typhoon-80"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-typhoon-80"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-typhoon-80"
+     }
+    ]
+   },
+   {
+    "nome": "Typhoon 125 (1995-2010)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-typhoon-125-1995.jpg",
+    "tag": "piaggio-typhoon-125-1995",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-anabbaglianti-piaggio-typhoon-125-1995"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-abbaglianti-piaggio-typhoon-125-1995"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-typhoon-125-1995"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-typhoon-125-1995"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-typhoon-125-1995"
+     }
+    ]
+   },
+   {
+    "nome": "Typhoon 125 (2011-2016)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-typhoon-125-2011.jpg",
+    "tag": "piaggio-typhoon-125-2011",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-piaggio-typhoon-125-2011"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-typhoon-125-2011"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-typhoon-125-2011"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-typhoon-125-2011"
+     }
+    ]
+   },
+   {
+    "nome": "X7 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x7-125.jpg",
+    "tag": "piaggio-x7-125",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-x7-125"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-x7-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x7-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x7-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x7-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x7-125"
+     }
+    ]
+   },
+   {
+    "nome": "X7 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x7-250.jpg",
+    "tag": "piaggio-x7-250",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-x7-250"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-x7-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x7-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x7-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x7-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x7-250"
+     }
+    ]
+   },
+   {
+    "nome": "X7 300",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x7-300.jpg",
+    "tag": "piaggio-x7-300",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-x7-300"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-x7-300"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x7-300"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x7-300"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x7-300"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x7-300"
+     }
+    ]
+   },
+   {
+    "nome": "X8 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x8-125.jpg",
+    "tag": "piaggio-x8-125",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-anabbaglianti-piaggio-x8-125"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-x8-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x8-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x8-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x8-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x8-125"
+     }
+    ]
+   },
+   {
+    "nome": "X8 150",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x8-150.jpg",
+    "tag": "piaggio-x8-150",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-anabbaglianti-piaggio-x8-150"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-x8-150"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x8-150"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x8-150"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x8-150"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x8-150"
+     }
+    ]
+   },
+   {
+    "nome": "X8 200",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x8-200.jpg",
+    "tag": "piaggio-x8-200",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-anabbaglianti-piaggio-x8-200"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-x8-200"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x8-200"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x8-200"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x8-200"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x8-200"
+     }
+    ]
+   },
+   {
+    "nome": "X8 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x8-250.jpg",
+    "tag": "piaggio-x8-250",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-anabbaglianti-piaggio-x8-250"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-x8-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x8-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x8-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x8-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x8-250"
+     }
+    ]
+   },
+   {
+    "nome": "X9 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x9-125.jpg",
+    "tag": "piaggio-x9-125",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-anabbaglianti-piaggio-x9-125"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-x9-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x9-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x9-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x9-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x9-125"
+     }
+    ]
+   },
+   {
+    "nome": "X9 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x9-250.jpg",
+    "tag": "piaggio-x9-250",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-anabbaglianti-piaggio-x9-250"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-x9-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x9-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x9-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x9-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x9-250"
+     }
+    ]
+   },
+   {
+    "nome": "X9 500",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x9-500.jpg",
+    "tag": "piaggio-x9-500",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-anabbaglianti-piaggio-x9-500"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-x9-500"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x9-500"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x9-500"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x9-500"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x9-500"
+     }
+    ]
+   },
+   {
+    "nome": "X10 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x10-125.jpg",
+    "tag": "piaggio-x10-125",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-anabbaglianti-piaggio-x10-125"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-abbaglianti-piaggio-x10-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x10-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x10-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x10-125"
+     }
+    ]
+   },
+   {
+    "nome": "X10 350",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x10-350.jpg",
+    "tag": "piaggio-x10-350",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-anabbaglianti-piaggio-x10-350"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-abbaglianti-piaggio-x10-350"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x10-350"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x10-350"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x10-350"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x10-350"
+     }
+    ]
+   },
+   {
+    "nome": "X10 500",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-x10-500.jpg",
+    "tag": "piaggio-x10-500",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H8",
+      "handle": "kit-led-anabbaglianti-piaggio-x10-500"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-abbaglianti-piaggio-x10-500"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-x10-500"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-x10-500"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-x10-500"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-x10-500"
+     }
+    ]
+   },
+   {
+    "nome": "XEvo 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-xevo-125.jpg",
+    "tag": "piaggio-xevo-125",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-xevo-125"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-xevo-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-xevo-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-xevo-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-xevo-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-xevo-125"
+     }
+    ]
+   },
+   {
+    "nome": "XEvo 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-xevo-250.jpg",
+    "tag": "piaggio-xevo-250",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-xevo-250"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-xevo-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-xevo-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-xevo-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-xevo-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-xevo-250"
+     }
+    ]
+   },
+   {
+    "nome": "XEvo 400",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-xevo-400.jpg",
+    "tag": "piaggio-xevo-400",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-piaggio-xevo-400"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-piaggio-xevo-400"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-piaggio-xevo-400"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-piaggio-xevo-400"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-xevo-400"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-xevo-400"
+     }
+    ]
+   },
+   {
+    "nome": "Zip 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-zip-50.jpg",
+    "tag": "piaggio-zip-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-piaggio-zip-50"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA15S",
+      "handle": "kit-led-posizione-piaggio-zip-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-zip-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-zip-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-zip-50"
+     }
+    ]
+   },
+   {
+    "nome": "Zip 100",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-zip-100.jpg",
+    "tag": "piaggio-zip-100",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-piaggio-zip-100"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA15S",
+      "handle": "kit-led-posizione-piaggio-zip-100"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-zip-100"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-zip-100"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-zip-100"
+     }
+    ]
+   },
+   {
+    "nome": "Zip 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-piaggio-zip-125.jpg",
+    "tag": "piaggio-zip-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "BA20D",
+      "handle": "kit-led-biluce-piaggio-zip-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA15S",
+      "handle": "kit-led-posizione-piaggio-zip-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-piaggio-zip-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-piaggio-zip-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-piaggio-zip-125"
      }
     ]
    }
@@ -43363,6 +45956,295 @@
     ]
    },
    {
+    "nome": "Aerox 100",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-aerox-100.jpg",
+    "tag": "yamaha-aerox-100",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-aerox-100"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-aerox-100"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-aerox-100"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-aerox-100"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-aerox-100"
+     }
+    ]
+   },
+   {
+    "nome": "BT 1100 Bulldog",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-bt-1100-bulldog.jpg",
+    "tag": "yamaha-bt-1100-bulldog",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-bt-1100-bulldog"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-bt-1100-bulldog"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-bt-1100-bulldog"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-bt-1100-bulldog"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-bt-1100-bulldog"
+     }
+    ]
+   },
+   {
+    "nome": "BW's 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-bw-s-50.jpg",
+    "tag": "yamaha-bw-s-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-bw-s-50"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-bw-s-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-bw-s-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-bw-s-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-bw-s-50"
+     }
+    ]
+   },
+   {
+    "nome": "BW's 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-bw-s-125.jpg",
+    "tag": "yamaha-bw-s-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "HS1",
+      "handle": "kit-led-biluce-yamaha-bw-s-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-bw-s-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-bw-s-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-bw-s-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-bw-s-125"
+     }
+    ]
+   },
+   {
+    "nome": "Cygnus X 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-cygnus-x-125.jpg",
+    "tag": "yamaha-cygnus-x-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-cygnus-x-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-cygnus-x-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-cygnus-x-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-cygnus-x-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-cygnus-x-125"
+     }
+    ]
+   },
+   {
+    "nome": "D'elight 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-d-elight-125.jpg",
+    "tag": "yamaha-d-elight-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "HS1",
+      "handle": "kit-led-biluce-yamaha-d-elight-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-d-elight-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-d-elight-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-d-elight-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-d-elight-125"
+     }
+    ]
+   },
+   {
+    "nome": "FJ 1200",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-fj-1200.jpg",
+    "tag": "yamaha-fj-1200",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-fj-1200"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-fj-1200"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-fj-1200"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-fj-1200"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-fj-1200"
+     }
+    ]
+   },
+   {
+    "nome": "FJR 1300 (2001-2015)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-fjr-1300-2001.jpg",
+    "tag": "yamaha-fjr-1300-2001",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-fjr-1300-2001"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-fjr-1300-2001"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-fjr-1300-2001"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-fjr-1300-2001"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-fjr-1300-2001"
+     }
+    ]
+   },
+   {
+    "nome": "FJR 1300 (2016-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-fjr-1300-2016.jpg",
+    "tag": "yamaha-fjr-1300-2016",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-fjr-1300-2016",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-fjr-1300-2016"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-fjr-1300-2016"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-fjr-1300-2016"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-fjr-1300-2016"
+     }
+    ]
+   },
+   {
     "nome": "Fz1",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-yamaha-fz1.jpg",
     "tag": "yamaha-fz1",
@@ -43417,6 +46299,38 @@
     ]
    },
    {
+    "nome": "FZ6 S2",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-fz6-s2.jpg",
+    "tag": "yamaha-fz6-s2",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-fz6-s2"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-fz6-s2"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-fz6-s2"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-fz6-s2"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-fz6-s2"
+     }
+    ]
+   },
+   {
     "nome": "Fz8",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-yamaha-fz8.jpg",
     "tag": "yamaha-fz8",
@@ -43440,6 +46354,405 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-yamaha-fz8"
+     }
+    ]
+   },
+   {
+    "nome": "FZR 600",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-fzr-600.jpg",
+    "tag": "yamaha-fzr-600",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-fzr-600"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-fzr-600"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-fzr-600"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-fzr-600"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-fzr-600"
+     }
+    ]
+   },
+   {
+    "nome": "FZR 1000",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-fzr-1000.jpg",
+    "tag": "yamaha-fzr-1000",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-fzr-1000"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-fzr-1000"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-fzr-1000"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-fzr-1000"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-fzr-1000"
+     }
+    ]
+   },
+   {
+    "nome": "FZS 600 Fazer",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-fzs-600-fazer.jpg",
+    "tag": "yamaha-fzs-600-fazer",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-fzs-600-fazer"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-abbaglianti-yamaha-fzs-600-fazer"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-fzs-600-fazer"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-fzs-600-fazer"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-fzs-600-fazer"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-fzs-600-fazer"
+     }
+    ]
+   },
+   {
+    "nome": "FZS 1000 Fazer",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-fzs-1000-fazer.jpg",
+    "tag": "yamaha-fzs-1000-fazer",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-fzs-1000-fazer"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H1",
+      "handle": "kit-led-abbaglianti-yamaha-fzs-1000-fazer"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-fzs-1000-fazer"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-fzs-1000-fazer"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-fzs-1000-fazer"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-fzs-1000-fazer"
+     }
+    ]
+   },
+   {
+    "nome": "GTS 1000",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-gts-1000.jpg",
+    "tag": "yamaha-gts-1000",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-gts-1000"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-gts-1000"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-gts-1000"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-gts-1000"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-gts-1000"
+     }
+    ]
+   },
+   {
+    "nome": "Jog R 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-jog-r-50.jpg",
+    "tag": "yamaha-jog-r-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-jog-r-50"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-jog-r-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-jog-r-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-jog-r-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-jog-r-50"
+     }
+    ]
+   },
+   {
+    "nome": "Jog RR 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-jog-rr-50.jpg",
+    "tag": "yamaha-jog-rr-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-jog-rr-50"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-jog-rr-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-jog-rr-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-jog-rr-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-jog-rr-50"
+     }
+    ]
+   },
+   {
+    "nome": "Majesty 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-majesty-125.jpg",
+    "tag": "yamaha-majesty-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-majesty-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-majesty-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-majesty-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-majesty-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-majesty-125"
+     }
+    ]
+   },
+   {
+    "nome": "Majesty 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-majesty-250.jpg",
+    "tag": "yamaha-majesty-250",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-majesty-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-majesty-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-majesty-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-majesty-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-majesty-250"
+     }
+    ]
+   },
+   {
+    "nome": "Majesty 400",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-majesty-400.jpg",
+    "tag": "yamaha-majesty-400",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-majesty-400"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-majesty-400"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-yamaha-majesty-400"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-majesty-400"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-majesty-400"
+     }
+    ]
+   },
+   {
+    "nome": "Maxster 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-maxster-125.jpg",
+    "tag": "yamaha-maxster-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-maxster-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-maxster-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-maxster-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-maxster-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-maxster-125"
+     }
+    ]
+   },
+   {
+    "nome": "MT-01",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-mt-01.jpg",
+    "tag": "yamaha-mt-01",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-mt-01"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-mt-01"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-mt-01"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-mt-01"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-mt-01"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-mt-01"
      }
     ]
    },
@@ -43632,6 +46945,308 @@
     ]
    },
    {
+    "nome": "MT-125 (2014-2019)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-mt-125-2014.jpg",
+    "tag": "yamaha-mt-125-2014",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-mt-125-2014"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-mt-125-2014"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-mt-125-2014"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-mt-125-2014"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-mt-125-2014"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-mt-125-2014"
+     }
+    ]
+   },
+   {
+    "nome": "MT-125 (2020-2026)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-mt-125-2020.jpg",
+    "tag": "yamaha-mt-125-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-mt-125-2020",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-mt-125-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-mt-125-2020"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-mt-125-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-mt-125-2020"
+     }
+    ]
+   },
+   {
+    "nome": "Neo's 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-neo-s-50.jpg",
+    "tag": "yamaha-neo-s-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-neo-s-50"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-neo-s-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-neo-s-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-neo-s-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-neo-s-50"
+     }
+    ]
+   },
+   {
+    "nome": "Neo's 100",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-neo-s-100.jpg",
+    "tag": "yamaha-neo-s-100",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-neo-s-100"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-neo-s-100"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-neo-s-100"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-neo-s-100"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-neo-s-100"
+     }
+    ]
+   },
+   {
+    "nome": "Niken",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-niken.jpg",
+    "tag": "yamaha-niken",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-niken",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-niken"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-niken"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-niken"
+     }
+    ]
+   },
+   {
+    "nome": "NMax 125 (2015-2019)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-nmax-125-2015.jpg",
+    "tag": "yamaha-nmax-125-2015",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-nmax-125-2015"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-nmax-125-2015"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-nmax-125-2015"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-nmax-125-2015"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-nmax-125-2015"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-nmax-125-2015"
+     }
+    ]
+   },
+   {
+    "nome": "NMax 125 (2020-2025)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-nmax-125-2020.jpg",
+    "tag": "yamaha-nmax-125-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-nmax-125-2020",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-nmax-125-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-nmax-125-2020"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-nmax-125-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-nmax-125-2020"
+     }
+    ]
+   },
+   {
+    "nome": "NMax 155 (2018-2019)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-nmax-155-2018.jpg",
+    "tag": "yamaha-nmax-155-2018",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-nmax-155-2018"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-nmax-155-2018"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-nmax-155-2018"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-nmax-155-2018"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-nmax-155-2018"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-nmax-155-2018"
+     }
+    ]
+   },
+   {
+    "nome": "NMax 155 (2020-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-nmax-155-2020.jpg",
+    "tag": "yamaha-nmax-155-2020",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-nmax-155-2020",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-nmax-155-2020"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-nmax-155-2020"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-nmax-155-2020"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-nmax-155-2020"
+     }
+    ]
+   },
+   {
     "nome": "SCR 950",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@881a72cfce9583850021e818bc7e31348d200d85/mb-yamaha-scr-950.jpg",
     "tag": "yamaha-scr-950",
@@ -43655,6 +47270,161 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-yamaha-scr-950"
+     }
+    ]
+   },
+   {
+    "nome": "Slider 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-slider-50.jpg",
+    "tag": "yamaha-slider-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-slider-50"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-slider-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-slider-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-slider-50"
+     }
+    ]
+   },
+   {
+    "nome": "SR 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-sr-125.jpg",
+    "tag": "yamaha-sr-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-sr-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-sr-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-sr-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-sr-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-sr-125"
+     }
+    ]
+   },
+   {
+    "nome": "SR 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-sr-250.jpg",
+    "tag": "yamaha-sr-250",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-sr-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-sr-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-sr-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-sr-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-sr-250"
+     }
+    ]
+   },
+   {
+    "nome": "SR 400",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-sr-400.jpg",
+    "tag": "yamaha-sr-400",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-sr-400"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-sr-400"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-sr-400"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-sr-400"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-sr-400"
+     }
+    ]
+   },
+   {
+    "nome": "SR 500",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-sr-500.jpg",
+    "tag": "yamaha-sr-500",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-sr-500"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-sr-500"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-sr-500"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-sr-500"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-sr-500"
      }
     ]
    },
@@ -43687,6 +47457,303 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-yamaha-t-max-500"
+     }
+    ]
+   },
+   {
+    "nome": "T-Max 530 (2012-2014)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-t-max-530-2012.jpg",
+    "tag": "yamaha-t-max-530-2012",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-t-max-530-2012"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-t-max-530-2012"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-t-max-530-2012"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-t-max-530-2012"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-t-max-530-2012"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-t-max-530-2012"
+     }
+    ]
+   },
+   {
+    "nome": "T-Max 530 (2015-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-t-max-530-2015.jpg",
+    "tag": "yamaha-t-max-530-2015",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-t-max-530-2015",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-t-max-530-2015"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-t-max-530-2015"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-t-max-530-2015"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-t-max-530-2015"
+     }
+    ]
+   },
+   {
+    "nome": "T-Max 560",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-t-max-560.jpg",
+    "tag": "yamaha-t-max-560",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-t-max-560",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-t-max-560"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-t-max-560"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-t-max-560"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-t-max-560"
+     }
+    ]
+   },
+   {
+    "nome": "TDM 850",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tdm-850.jpg",
+    "tag": "yamaha-tdm-850",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-tdm-850"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-tdm-850"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-tdm-850"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-tdm-850"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tdm-850"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tdm-850"
+     }
+    ]
+   },
+   {
+    "nome": "TDM 900",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tdm-900.jpg",
+    "tag": "yamaha-tdm-900",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-tdm-900"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-tdm-900"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-tdm-900"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-tdm-900"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tdm-900"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tdm-900"
+     }
+    ]
+   },
+   {
+    "nome": "TDR 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tdr-125.jpg",
+    "tag": "yamaha-tdr-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-tdr-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-tdr-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-tdr-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tdr-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tdr-125"
+     }
+    ]
+   },
+   {
+    "nome": "Teo's 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-teo-s-125.jpg",
+    "tag": "yamaha-teo-s-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-teo-s-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-teo-s-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-teo-s-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-teo-s-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-teo-s-125"
+     }
+    ]
+   },
+   {
+    "nome": "Tracer 7",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tracer-7.jpg",
+    "tag": "yamaha-tracer-7",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-tracer-7",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-tracer-7"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tracer-7"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tracer-7"
+     }
+    ]
+   },
+   {
+    "nome": "Tracer 9",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tracer-9.jpg",
+    "tag": "yamaha-tracer-9",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-tracer-9",
+      "led": true
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-tracer-9"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tracer-9"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tracer-9"
      }
     ]
    },
@@ -43739,6 +47806,2541 @@
       "nome": "Targa",
       "socket": "T10",
       "handle": "kit-led-targa-yamaha-tracer-900"
+     }
+    ]
+   },
+   {
+    "nome": "Tricity 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tricity-125.jpg",
+    "tag": "yamaha-tricity-125",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-tricity-125"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-abbaglianti-yamaha-tricity-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-tricity-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-tricity-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tricity-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tricity-125"
+     }
+    ]
+   },
+   {
+    "nome": "Tricity 300",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tricity-300.jpg",
+    "tag": "yamaha-tricity-300",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-tricity-300",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-tricity-300"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-tricity-300"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tricity-300"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tricity-300"
+     }
+    ]
+   },
+   {
+    "nome": "TRX 850",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-trx-850.jpg",
+    "tag": "yamaha-trx-850",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-trx-850"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-trx-850"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-trx-850"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-trx-850"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-trx-850"
+     }
+    ]
+   },
+   {
+    "nome": "TW 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tw-125.jpg",
+    "tag": "yamaha-tw-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-tw-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-tw-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-tw-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tw-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tw-125"
+     }
+    ]
+   },
+   {
+    "nome": "TW 200",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tw-200.jpg",
+    "tag": "yamaha-tw-200",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-tw-200"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-tw-200"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-tw-200"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tw-200"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tw-200"
+     }
+    ]
+   },
+   {
+    "nome": "TZR 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tzr-50.jpg",
+    "tag": "yamaha-tzr-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-tzr-50"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-tzr-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-tzr-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tzr-50"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tzr-50"
+     }
+    ]
+   },
+   {
+    "nome": "TZR 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tzr-125.jpg",
+    "tag": "yamaha-tzr-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-tzr-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-tzr-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-tzr-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tzr-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tzr-125"
+     }
+    ]
+   },
+   {
+    "nome": "Ténéré 700 (2019-2022)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tenere-700-2019.jpg",
+    "tag": "yamaha-tenere-700-2019",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-tenere-700-2019",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-tenere-700-2019"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-tenere-700-2019"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tenere-700-2019"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tenere-700-2019"
+     }
+    ]
+   },
+   {
+    "nome": "Ténéré 700 (2023-2026)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-tenere-700-2023.jpg",
+    "tag": "yamaha-tenere-700-2023",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-tenere-700-2023",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-tenere-700-2023"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-tenere-700-2023"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-tenere-700-2023"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-tenere-700-2023"
+     }
+    ]
+   },
+   {
+    "nome": "V-Max 1200",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-v-max-1200.jpg",
+    "tag": "yamaha-v-max-1200",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-v-max-1200"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-v-max-1200"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-v-max-1200"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-v-max-1200"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-v-max-1200"
+     }
+    ]
+   },
+   {
+    "nome": "V-Max 1700",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-v-max-1700.jpg",
+    "tag": "yamaha-v-max-1700",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H7",
+      "handle": "kit-led-biluce-yamaha-v-max-1700"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-v-max-1700"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-v-max-1700"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-v-max-1700"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-v-max-1700"
+     }
+    ]
+   },
+   {
+    "nome": "Versity 300",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-versity-300.jpg",
+    "tag": "yamaha-versity-300",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "HS1",
+      "handle": "kit-led-biluce-yamaha-versity-300"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-versity-300"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BAU15S",
+      "handle": "kit-led-frecce-yamaha-versity-300"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-versity-300"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-versity-300"
+     }
+    ]
+   },
+   {
+    "nome": "Vity 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-vity-125.jpg",
+    "tag": "yamaha-vity-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-vity-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-vity-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-vity-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-vity-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-vity-125"
+     }
+    ]
+   },
+   {
+    "nome": "Why 50",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-why-50.jpg",
+    "tag": "yamaha-why-50",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-why-50"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-why-50"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-why-50"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-why-50"
+     }
+    ]
+   },
+   {
+    "nome": "WR 125 R/X",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-wr-125-r-x.jpg",
+    "tag": "yamaha-wr-125-r-x",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-wr-125-r-x"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-wr-125-r-x"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-wr-125-r-x"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-wr-125-r-x"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-wr-125-r-x"
+     }
+    ]
+   },
+   {
+    "nome": "WR 250 R/X",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-wr-250-r-x.jpg",
+    "tag": "yamaha-wr-250-r-x",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-wr-250-r-x"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-wr-250-r-x"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-wr-250-r-x"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-wr-250-r-x"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-wr-250-r-x"
+     }
+    ]
+   },
+   {
+    "nome": "X-City 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-x-city-125.jpg",
+    "tag": "yamaha-x-city-125",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-x-city-125"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-x-city-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-x-city-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-x-city-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-x-city-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-x-city-125"
+     }
+    ]
+   },
+   {
+    "nome": "X-City 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-x-city-250.jpg",
+    "tag": "yamaha-x-city-250",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-x-city-250"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-x-city-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-x-city-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-x-city-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-x-city-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-x-city-250"
+     }
+    ]
+   },
+   {
+    "nome": "X-Max 125 (2006-2009)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-x-max-125-2006.jpg",
+    "tag": "yamaha-x-max-125-2006",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-x-max-125-2006"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-x-max-125-2006"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-x-max-125-2006"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-x-max-125-2006"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-x-max-125-2006"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-x-max-125-2006"
+     }
+    ]
+   },
+   {
+    "nome": "X-Max 125 (2010-2013)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-x-max-125-2010.jpg",
+    "tag": "yamaha-x-max-125-2010",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-x-max-125-2010"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-x-max-125-2010"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-x-max-125-2010"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-x-max-125-2010"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-x-max-125-2010"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-x-max-125-2010"
+     }
+    ]
+   },
+   {
+    "nome": "X-Max 125 (2014-2017)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-x-max-125-2014.jpg",
+    "tag": "yamaha-x-max-125-2014",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-x-max-125-2014"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-x-max-125-2014"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-x-max-125-2014"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-x-max-125-2014"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-x-max-125-2014"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-x-max-125-2014"
+     }
+    ]
+   },
+   {
+    "nome": "X-Max 125 (2018-2026)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-x-max-125-2018.jpg",
+    "tag": "yamaha-x-max-125-2018",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-x-max-125-2018",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-x-max-125-2018"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-x-max-125-2018"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-x-max-125-2018"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-x-max-125-2018"
+     }
+    ]
+   },
+   {
+    "nome": "X-Max 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-x-max-250.jpg",
+    "tag": "yamaha-x-max-250",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-x-max-250"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-x-max-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-x-max-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-x-max-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-x-max-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-x-max-250"
+     }
+    ]
+   },
+   {
+    "nome": "X-Max 300",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-x-max-300.jpg",
+    "tag": "yamaha-x-max-300",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-x-max-300",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-x-max-300"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-x-max-300"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-x-max-300"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-x-max-300"
+     }
+    ]
+   },
+   {
+    "nome": "X-Max 400 (2013-2016)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-x-max-400-2013.jpg",
+    "tag": "yamaha-x-max-400-2013",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-x-max-400-2013"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-x-max-400-2013"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-x-max-400-2013"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-x-max-400-2013"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-x-max-400-2013"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-x-max-400-2013"
+     }
+    ]
+   },
+   {
+    "nome": "X-Max 400 (2017-2020)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-x-max-400-2017.jpg",
+    "tag": "yamaha-x-max-400-2017",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-x-max-400-2017",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-x-max-400-2017"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-x-max-400-2017"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-x-max-400-2017"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-x-max-400-2017"
+     }
+    ]
+   },
+   {
+    "nome": "Xenter 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xenter-125.jpg",
+    "tag": "yamaha-xenter-125",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-xenter-125"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-xenter-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-xenter-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-xenter-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xenter-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xenter-125"
+     }
+    ]
+   },
+   {
+    "nome": "Xenter 150",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xenter-150.jpg",
+    "tag": "yamaha-xenter-150",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-xenter-150"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-xenter-150"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-xenter-150"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-xenter-150"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xenter-150"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xenter-150"
+     }
+    ]
+   },
+   {
+    "nome": "XJ 600",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xj-600.jpg",
+    "tag": "yamaha-xj-600",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xj-600"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xj-600"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xj-600"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xj-600"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xj-600"
+     }
+    ]
+   },
+   {
+    "nome": "XJ 600 Diversion",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xj-600-diversion.jpg",
+    "tag": "yamaha-xj-600-diversion",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xj-600-diversion"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xj-600-diversion"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xj-600-diversion"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xj-600-diversion"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xj-600-diversion"
+     }
+    ]
+   },
+   {
+    "nome": "XJ 900",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xj-900.jpg",
+    "tag": "yamaha-xj-900",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xj-900"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xj-900"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xj-900"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xj-900"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xj-900"
+     }
+    ]
+   },
+   {
+    "nome": "XJ 900 Diversion",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xj-900-diversion.jpg",
+    "tag": "yamaha-xj-900-diversion",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xj-900-diversion"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xj-900-diversion"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xj-900-diversion"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xj-900-diversion"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xj-900-diversion"
+     }
+    ]
+   },
+   {
+    "nome": "XJ6",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xj6.jpg",
+    "tag": "yamaha-xj6",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xj6"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xj6"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xj6"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xj6"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xj6"
+     }
+    ]
+   },
+   {
+    "nome": "XJ6 Diversion",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xj6-diversion.jpg",
+    "tag": "yamaha-xj6-diversion",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xj6-diversion"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xj6-diversion"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xj6-diversion"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xj6-diversion"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xj6-diversion"
+     }
+    ]
+   },
+   {
+    "nome": "XJR 1200",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xjr-1200.jpg",
+    "tag": "yamaha-xjr-1200",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xjr-1200"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xjr-1200"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xjr-1200"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xjr-1200"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xjr-1200"
+     }
+    ]
+   },
+   {
+    "nome": "XJR 1300",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xjr-1300.jpg",
+    "tag": "yamaha-xjr-1300",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xjr-1300"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xjr-1300"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xjr-1300"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xjr-1300"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xjr-1300"
+     }
+    ]
+   },
+   {
+    "nome": "XSR 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xsr-125.jpg",
+    "tag": "yamaha-xsr-125",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-xsr-125",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-xsr-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-xsr-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xsr-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xsr-125"
+     }
+    ]
+   },
+   {
+    "nome": "XSR 700",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xsr-700.jpg",
+    "tag": "yamaha-xsr-700",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xsr-700"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-xsr-700"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-xsr-700"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xsr-700"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xsr-700"
+     }
+    ]
+   },
+   {
+    "nome": "XSR 900 (2016-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xsr-900-2016.jpg",
+    "tag": "yamaha-xsr-900-2016",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xsr-900-2016"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-xsr-900-2016"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-xsr-900-2016"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xsr-900-2016"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xsr-900-2016"
+     }
+    ]
+   },
+   {
+    "nome": "XSR 900 (2022-2026)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xsr-900-2022.jpg",
+    "tag": "yamaha-xsr-900-2022",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-xsr-900-2022",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-xsr-900-2022"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-xsr-900-2022"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xsr-900-2022"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xsr-900-2022"
+     }
+    ]
+   },
+   {
+    "nome": "XT 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xt-125.jpg",
+    "tag": "yamaha-xt-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xt-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-xt-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xt-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xt-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xt-125"
+     }
+    ]
+   },
+   {
+    "nome": "XT 600",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xt-600.jpg",
+    "tag": "yamaha-xt-600",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xt-600"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-xt-600"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xt-600"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xt-600"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xt-600"
+     }
+    ]
+   },
+   {
+    "nome": "XT 660",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xt-660.jpg",
+    "tag": "yamaha-xt-660",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xt-660"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-xt-660"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xt-660"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xt-660"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xt-660"
+     }
+    ]
+   },
+   {
+    "nome": "XT 660 Z Ténéré",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xt-660-z-tenere.jpg",
+    "tag": "yamaha-xt-660-z-tenere",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-xt-660-z-tenere"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-xt-660-z-tenere"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-xt-660-z-tenere"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xt-660-z-tenere"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xt-660-z-tenere"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xt-660-z-tenere"
+     }
+    ]
+   },
+   {
+    "nome": "XT 1200 Z Super Ténéré",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xt-1200-z-super-tenere.jpg",
+    "tag": "yamaha-xt-1200-z-super-tenere",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-xt-1200-z-super-tenere"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-xt-1200-z-super-tenere"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xt-1200-z-super-tenere"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xt-1200-z-super-tenere"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xt-1200-z-super-tenere"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xt-1200-z-super-tenere"
+     }
+    ]
+   },
+   {
+    "nome": "XTZ 660 Ténéré (1991-1993)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xtz-660-tenere-1991.jpg",
+    "tag": "yamaha-xtz-660-tenere-1991",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xtz-660-tenere-1991"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xtz-660-tenere-1991"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xtz-660-tenere-1991"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xtz-660-tenere-1991"
+     },
+     {
+      "nome": "Targa",
+      "socket": "BA9S",
+      "handle": "kit-led-targa-yamaha-xtz-660-tenere-1991"
+     }
+    ]
+   },
+   {
+    "nome": "XTZ 660 Ténéré (1994-1999)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xtz-660-tenere-1994.jpg",
+    "tag": "yamaha-xtz-660-tenere-1994",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-xtz-660-tenere-1994"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-xtz-660-tenere-1994"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xtz-660-tenere-1994"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xtz-660-tenere-1994"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xtz-660-tenere-1994"
+     },
+     {
+      "nome": "Targa",
+      "socket": "BA9S",
+      "handle": "kit-led-targa-yamaha-xtz-660-tenere-1994"
+     }
+    ]
+   },
+   {
+    "nome": "XTZ 750 Super Ténéré",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xtz-750-super-tenere.jpg",
+    "tag": "yamaha-xtz-750-super-tenere",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-xtz-750-super-tenere"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-xtz-750-super-tenere"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xtz-750-super-tenere"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xtz-750-super-tenere"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xtz-750-super-tenere"
+     },
+     {
+      "nome": "Targa",
+      "socket": "BA9S",
+      "handle": "kit-led-targa-yamaha-xtz-750-super-tenere"
+     }
+    ]
+   },
+   {
+    "nome": "XV 125 Virago",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xv-125-virago.jpg",
+    "tag": "yamaha-xv-125-virago",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xv-125-virago"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xv-125-virago"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xv-125-virago"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xv-125-virago"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xv-125-virago"
+     }
+    ]
+   },
+   {
+    "nome": "XV 250 Virago",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xv-250-virago.jpg",
+    "tag": "yamaha-xv-250-virago",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xv-250-virago"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xv-250-virago"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xv-250-virago"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xv-250-virago"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xv-250-virago"
+     }
+    ]
+   },
+   {
+    "nome": "XV 535 Virago",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xv-535-virago.jpg",
+    "tag": "yamaha-xv-535-virago",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xv-535-virago"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xv-535-virago"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xv-535-virago"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xv-535-virago"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xv-535-virago"
+     }
+    ]
+   },
+   {
+    "nome": "XV 750 Virago",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xv-750-virago.jpg",
+    "tag": "yamaha-xv-750-virago",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xv-750-virago"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xv-750-virago"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xv-750-virago"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xv-750-virago"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xv-750-virago"
+     }
+    ]
+   },
+   {
+    "nome": "XV 950 Bolt",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xv-950-bolt.jpg",
+    "tag": "yamaha-xv-950-bolt",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xv-950-bolt"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-xv-950-bolt"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "T20",
+      "handle": "kit-led-frecce-yamaha-xv-950-bolt"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xv-950-bolt"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xv-950-bolt"
+     }
+    ]
+   },
+   {
+    "nome": "XV 1100 Virago",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xv-1100-virago.jpg",
+    "tag": "yamaha-xv-1100-virago",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xv-1100-virago"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xv-1100-virago"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xv-1100-virago"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xv-1100-virago"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xv-1100-virago"
+     }
+    ]
+   },
+   {
+    "nome": "XV 1600 Wild Star",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xv-1600-wild-star.jpg",
+    "tag": "yamaha-xv-1600-wild-star",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xv-1600-wild-star"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xv-1600-wild-star"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xv-1600-wild-star"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xv-1600-wild-star"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xv-1600-wild-star"
+     }
+    ]
+   },
+   {
+    "nome": "XV 1900 Midnight Star",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xv-1900-midnight-star.jpg",
+    "tag": "yamaha-xv-1900-midnight-star",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H7",
+      "handle": "kit-led-biluce-yamaha-xv-1900-midnight-star"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xv-1900-midnight-star"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xv-1900-midnight-star"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xv-1900-midnight-star"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xv-1900-midnight-star"
+     }
+    ]
+   },
+   {
+    "nome": "XVS 125 Drag Star",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xvs-125-drag-star.jpg",
+    "tag": "yamaha-xvs-125-drag-star",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xvs-125-drag-star"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xvs-125-drag-star"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xvs-125-drag-star"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xvs-125-drag-star"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xvs-125-drag-star"
+     }
+    ]
+   },
+   {
+    "nome": "XVS 250 Drag Star",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xvs-250-drag-star.jpg",
+    "tag": "yamaha-xvs-250-drag-star",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xvs-250-drag-star"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xvs-250-drag-star"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xvs-250-drag-star"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xvs-250-drag-star"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xvs-250-drag-star"
+     }
+    ]
+   },
+   {
+    "nome": "XVS 650 Drag Star",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xvs-650-drag-star.jpg",
+    "tag": "yamaha-xvs-650-drag-star",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xvs-650-drag-star"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xvs-650-drag-star"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xvs-650-drag-star"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xvs-650-drag-star"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xvs-650-drag-star"
+     }
+    ]
+   },
+   {
+    "nome": "XVS 950 Midnight Star",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xvs-950-midnight-star.jpg",
+    "tag": "yamaha-xvs-950-midnight-star",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xvs-950-midnight-star"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xvs-950-midnight-star"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xvs-950-midnight-star"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xvs-950-midnight-star"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xvs-950-midnight-star"
+     }
+    ]
+   },
+   {
+    "nome": "XVS 1100 Drag Star",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xvs-1100-drag-star.jpg",
+    "tag": "yamaha-xvs-1100-drag-star",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xvs-1100-drag-star"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xvs-1100-drag-star"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xvs-1100-drag-star"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xvs-1100-drag-star"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xvs-1100-drag-star"
+     }
+    ]
+   },
+   {
+    "nome": "XVS 1300 Midnight Star",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-xvs-1300-midnight-star.jpg",
+    "tag": "yamaha-xvs-1300-midnight-star",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "H4",
+      "handle": "kit-led-biluce-yamaha-xvs-1300-midnight-star"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-xvs-1300-midnight-star"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-xvs-1300-midnight-star"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-xvs-1300-midnight-star"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-xvs-1300-midnight-star"
+     }
+    ]
+   },
+   {
+    "nome": "YBR 125",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-ybr-125.jpg",
+    "tag": "yamaha-ybr-125",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-ybr-125"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-ybr-125"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-ybr-125"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-ybr-125"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-ybr-125"
+     }
+    ]
+   },
+   {
+    "nome": "YBR 250",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-ybr-250.jpg",
+    "tag": "yamaha-ybr-250",
+    "tipi": [
+     {
+      "nome": "Bi-luce (Anab+Abba)",
+      "socket": "S2",
+      "handle": "kit-led-biluce-yamaha-ybr-250"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "T10",
+      "handle": "kit-led-posizione-yamaha-ybr-250"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-ybr-250"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-ybr-250"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-ybr-250"
+     }
+    ]
+   },
+   {
+    "nome": "YZF 600 Thundercat",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-600-thundercat.jpg",
+    "tag": "yamaha-yzf-600-thundercat",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-yzf-600-thundercat"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-abbaglianti-yamaha-yzf-600-thundercat"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-600-thundercat"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-600-thundercat"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-600-thundercat"
+     }
+    ]
+   },
+   {
+    "nome": "YZF 750",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-750.jpg",
+    "tag": "yamaha-yzf-750",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-anabbaglianti-yamaha-yzf-750"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H4",
+      "handle": "kit-led-abbaglianti-yamaha-yzf-750"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-750"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-750"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-750"
+     }
+    ]
+   },
+   {
+    "nome": "YZF-R1 (1998-2014)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-r1-1998.jpg",
+    "tag": "yamaha-yzf-r1-1998",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-yzf-r1-1998"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-yzf-r1-1998"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-r1-1998"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-r1-1998"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-r1-1998"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-yzf-r1-1998"
+     }
+    ]
+   },
+   {
+    "nome": "YZF-R1 (2015-2025)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-r1-2015.jpg",
+    "tag": "yamaha-yzf-r1-2015",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-yzf-r1-2015",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-r1-2015"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-r1-2015"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-r1-2015"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-yzf-r1-2015"
+     }
+    ]
+   },
+   {
+    "nome": "YZF-R3 (2015-2018)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-r3-2015.jpg",
+    "tag": "yamaha-yzf-r3-2015",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-yzf-r3-2015"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-yzf-r3-2015"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-r3-2015"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-r3-2015"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-r3-2015"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-yzf-r3-2015"
+     }
+    ]
+   },
+   {
+    "nome": "YZF-R3 (2019-2026)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-r3-2019.jpg",
+    "tag": "yamaha-yzf-r3-2019",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-yzf-r3-2019",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-r3-2019"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-r3-2019"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-r3-2019"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-yzf-r3-2019"
+     }
+    ]
+   },
+   {
+    "nome": "YZF-R6 (1999-2016)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-r6-1999.jpg",
+    "tag": "yamaha-yzf-r6-1999",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-yzf-r6-1999"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-yzf-r6-1999"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-r6-1999"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-r6-1999"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-r6-1999"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-yzf-r6-1999"
+     }
+    ]
+   },
+   {
+    "nome": "YZF-R6 (2017-2021)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-r6-2017.jpg",
+    "tag": "yamaha-yzf-r6-2017",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-yzf-r6-2017",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-r6-2017"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-r6-2017"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-r6-2017"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-yzf-r6-2017"
+     }
+    ]
+   },
+   {
+    "nome": "YZF-R7",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-r7.jpg",
+    "tag": "yamaha-yzf-r7",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-yzf-r7",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-r7"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-r7"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-r7"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-yzf-r7"
+     }
+    ]
+   },
+   {
+    "nome": "YZF-R125 (2008-2013)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-r125-2008.jpg",
+    "tag": "yamaha-yzf-r125-2008",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-yzf-r125-2008"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-yzf-r125-2008"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-r125-2008"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-r125-2008"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-r125-2008"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-yzf-r125-2008"
+     }
+    ]
+   },
+   {
+    "nome": "YZF-R125 (2014-2018)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-r125-2014.jpg",
+    "tag": "yamaha-yzf-r125-2014",
+    "tipi": [
+     {
+      "nome": "Anabbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-anabbaglianti-yamaha-yzf-r125-2014"
+     },
+     {
+      "nome": "Abbaglianti",
+      "socket": "H7",
+      "handle": "kit-led-abbaglianti-yamaha-yzf-r125-2014"
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-r125-2014"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-r125-2014"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-r125-2014"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-yzf-r125-2014"
+     }
+    ]
+   },
+   {
+    "nome": "YZF-R125 (2019-2026)",
+    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@c8cba8a7cae15203885c2cf05a2ae45c39c35319/mb-yamaha-yzf-r125-2019.jpg",
+    "tag": "yamaha-yzf-r125-2019",
+    "tipi": [
+     {
+      "nome": "Faro LED di serie",
+      "socket": "non sostituibile",
+      "handle": "kit-led-fari-led-yamaha-yzf-r125-2019",
+      "led": true
+     },
+     {
+      "nome": "Posizione",
+      "socket": "BA9S",
+      "handle": "kit-led-posizione-yamaha-yzf-r125-2019"
+     },
+     {
+      "nome": "Frecce",
+      "socket": "BA15S",
+      "handle": "kit-led-frecce-yamaha-yzf-r125-2019"
+     },
+     {
+      "nome": "Stop",
+      "socket": "BAY15D",
+      "handle": "kit-led-stop-yamaha-yzf-r125-2019"
+     },
+     {
+      "nome": "Targa",
+      "socket": "T10",
+      "handle": "kit-led-targa-yamaha-yzf-r125-2019"
      }
     ]
    }

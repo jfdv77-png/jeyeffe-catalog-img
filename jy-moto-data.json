@@ -50839,18 +50839,6 @@
     ]
    },
    {
-    "nome": "Chief Classic",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4066344dfe5af8a7ceea7d8b1920ef1ef20f2ae0/mb-indian-chief-1800-111.jpg",
-    "tag": "indian-chief-1800-111",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-indian-chief-1800-111"
-     }
-    ]
-   },
-   {
     "nome": "Chieftain",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4066344dfe5af8a7ceea7d8b1920ef1ef20f2ae0/mb-indian-chieftain-1800.jpg",
     "tag": "indian-chieftain-1800",
@@ -50863,30 +50851,6 @@
     ]
    },
    {
-    "nome": "Chieftain",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4066344dfe5af8a7ceea7d8b1920ef1ef20f2ae0/mb-indian-chieftain-1800-111.jpg",
-    "tag": "indian-chieftain-1800-111",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-indian-chieftain-1800-111"
-     }
-    ]
-   },
-   {
-    "nome": "Chieftain",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4066344dfe5af8a7ceea7d8b1920ef1ef20f2ae0/mb-indian-chieftain-1890-116.jpg",
-    "tag": "indian-chieftain-1890-116",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-indian-chieftain-1890-116"
-     }
-    ]
-   },
-   {
     "nome": "Roadmaster",
     "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4066344dfe5af8a7ceea7d8b1920ef1ef20f2ae0/mb-indian-roadmaster-1800.jpg",
     "tag": "indian-roadmaster-1800",
@@ -50895,18 +50859,6 @@
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
       "handle": "kit-led-biluce-indian-roadmaster-1800"
-     }
-    ]
-   },
-   {
-    "nome": "Roadmaster",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4066344dfe5af8a7ceea7d8b1920ef1ef20f2ae0/mb-indian-roadmaster-1890-116.jpg",
-    "tag": "indian-roadmaster-1890-116",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-indian-roadmaster-1890-116"
      }
     ]
    },
@@ -50963,18 +50915,6 @@
       "nome": "Bi-luce (Anab+Abba)",
       "socket": "H4",
       "handle": "kit-led-biluce-indian-springfield-1800-111"
-     }
-    ]
-   },
-   {
-    "nome": "Springfield",
-    "img": "https://cdn.jsdelivr.net/gh/jfdv77-png/jeyeffe-catalog-img@4066344dfe5af8a7ceea7d8b1920ef1ef20f2ae0/mb-indian-springfield-1890-116.jpg",
-    "tag": "indian-springfield-1890-116",
-    "tipi": [
-     {
-      "nome": "Bi-luce (Anab+Abba)",
-      "socket": "H4",
-      "handle": "kit-led-biluce-indian-springfield-1890-116"
      }
     ]
    }
